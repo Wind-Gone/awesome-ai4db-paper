@@ -2,7 +2,18 @@
 
 Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
 
-[TOC]
+- [AI4DB Paper Sets](#ai4db-paper-sets)
+  - [Learning-based Cardinality Estimation](#learning-based-cardinality-estimation)
+    - [Survey](#survey)
+    - [Query-Driven](#query-driven)
+    - [Data-Driven](#data-driven)
+    - [Hybrid](#hybrid)
+  - [Learning-based Index Design](#learning-based-index-design)
+    - [Single-dimensional](#single-dimensional)
+    - [Multi-dimensional](#multi-dimensional)
+  - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
+    - [Index Advisor](#index-advisor)
+
 
 ## Learning-based Cardinality Estimation
 
