@@ -2,7 +2,7 @@
 
 Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
 
-## Learned-based Cardinality Estimation
+## Learning-based Cardinality Estimation
 
 ### Survey
 
@@ -38,7 +38,7 @@ Welcom new PR, please conform to the commited rules:  paperName(with link) [Meet
 
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]
 
-## Learned-based Index Design
+## Learning-based Index Design
 
 ### Single-dimensional
 
@@ -47,6 +47,19 @@ Welcom new PR, please conform to the commited rules:  paperName(with link) [Meet
 3. [The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds](http://www.vldb.org/pvldb/vol13/p1162-ferragina.pdf)  [VLDB 20]
 4. [RadixSpline: a single-pass learned index](https://dl.acm.org/doi/pdf/10.1145/3401071.3401659) [aiDM 20]
 5. [A Pluggable Learned Index Method via Sampling and Gap Insertion](https://arxiv.org/pdf/2101.00808.pdf) [aiXiv 21]
+6. [The Case for Learned Index Structures](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909) [SIGMOD 18]
+7. [APEX: A High-Performance Learned Index on Persistent Memory](https://arxiv.org/pdf/2105.00683.pdf) [VLDB 22]
+8. [Updatable Learned Index with Precise Positions](https://arxiv.org/pdf/2104.05520.pdf) [VLDB 21]
+9. [Why Are Learned Indexes So Effective?](http://proceedings.mlr.press/v119/ferragina20a/ferragina20a.pdf) [ICML 20]
+10. [Tuning Hierarchical Learned Indexes on Disk and Beyond](https://dl.acm.org/doi/abs/10.1145/3514221.3520255) [SIGMOD 22]
+11. [FINEdex: A Fine-grained Learned Index Scheme for Scalable and Concurrent Memory Systems](http://www.vldb.org/pvldb/vol15/p321-hua.pdf) [VLDB 22]
+12. [Are Updatable Learned Indexes Ready?](https://arxiv.org/pdf/2207.02900.pdf) [VLDB 22]
+13. [CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm](https://www.vldb.org/pvldb/vol15/p2679-gao.pdf) [VLDB 22]
+14. [NFL: Robust Learned Index via Distribution Transformation](https://www.vldb.org/pvldb/vol15/p2188-wu.pdf) [VLDB 22]
+15. [The next 50 years in database indexing or: the case for automatically generated index structures](https://dl.acm.org/doi/10.14778/3494124.3494136) [VLDB 21]
+
+
+
 
 ### Multi-dimensional
 
@@ -54,4 +67,6 @@ Welcom new PR, please conform to the commited rules:  paperName(with link) [Meet
 2. [LISA: A Learned Index Structure for Spatial Data](https://dl.acm.org/doi/abs/10.1145/3318464.3389703) [SIGMOD 20]
 3. [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](http://vldb.org/pvldb/vol14/p74-ding.pdf) [VLDB 21]
 4. [NEIST: a Neural-Enhanced Index for Spatio-Temporal Queries](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861025) [TKDE 21]
-
+5. [Effectively Learning Spatial Indices](https://vbn.aau.dk/ws/files/391644098/p2341_qi.pdf) [VLDB 20]
+6. [The ML-Index: A Multidimensional, Learned Index for Point, Range, and Nearest-Neighbor Queries](https://dbis.informatik.uni-kl.de/files/papers/ml-index-edbt2020.pdf) [EDBT 20]
+7. [RW-Tree: A Learned Workload-aware Framework for R-tree Construction](https://ieeexplore.ieee.org/abstract/document/9835605/) [ICDE 22]
