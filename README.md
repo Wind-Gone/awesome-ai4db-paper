@@ -2,6 +2,8 @@
 
 Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
 
+[TOC]
+
 ## Learning-based Cardinality Estimation
 
 ### Survey
