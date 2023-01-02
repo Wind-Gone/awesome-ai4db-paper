@@ -47,7 +47,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [[CIDR 2019](https://github.com/andreaskipf/learnedcardinalities)]
 2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [[VLDB 19](https://github.com/greatji/Learning-based-cost-estimator)]
-3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [[VLDB 21](https://github.com/learnedsystems/CEB)]
+3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 22](https://github.com/Eilowangfang/LPCE)]
 
 #### Data-Driven
