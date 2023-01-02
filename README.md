@@ -6,7 +6,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 - [AI4DB Paper Sets](#ai4db-paper-sets)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
-    - [Learning-based Cardinality Estimation](#learning-based-cardinality-estimation)
+    - [Cardinality Estimation](#learning-based-cardinality-estimation)
       - [Survey](#survey)
       - [Query-Driven](#query-driven)
         - [Single-Table](#single-table)
@@ -15,7 +15,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
         - [Single-Table](#single-table-1)
         - [Multi-Tables](#multi-tables-1)
       - [Hybrid](#hybrid)
-    - [Learning-based Plan Hints](#learning-based-plan-hints)
+    - [Plan Hints](#learning-based-plan-hints)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
@@ -26,7 +26,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ## Learning-based Query Optimization
 
-### Learning-based Cardinality Estimation
+### Cardinality Estimation
 
 #### Survey
 
@@ -73,7 +73,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
 
-### Learning-based Plan Hints
+### Plan Hints
 
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
 
