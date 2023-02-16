@@ -6,7 +6,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 - [AI4DB Paper Sets](#ai4db-paper-sets)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
-    - [Learning-based Cardinality Estimation](#learning-based-cardinality-estimation)
+    - [Cardinality Estimation](#learning-based-cardinality-estimation)
       - [Survey](#survey)
       - [Query-Driven](#query-driven)
         - [Single-Table](#single-table)
@@ -15,7 +15,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
         - [Single-Table](#single-table-1)
         - [Multi-Tables](#multi-tables-1)
       - [Hybrid](#hybrid)
-    - [Learning-based Plan Hints](#learning-based-plan-hints)
+    - [Plan Hints](#learning-based-plan-hints)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
@@ -26,7 +26,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ## Learning-based Query Optimization
 
-### Learning-based Cardinality Estimation
+### Cardinality Estimation
 
 #### Survey
 
@@ -47,7 +47,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [[CIDR 2019](https://github.com/andreaskipf/learnedcardinalities)]
 2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [[VLDB 19](https://github.com/greatji/Learning-based-cost-estimator)]
-3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [[VLDB 21](https://github.com/learnedsystems/CEB)]
+3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 22](https://github.com/Eilowangfang/LPCE)]
 
 #### Data-Driven
@@ -69,12 +69,12 @@ If the paper has the open-souce code, please supply its github links in Meeting
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [[VLDB 22](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/fork)]
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
-
+9. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [[VLDB 22](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator)]
 #### Hybrid
 
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
 
-### Learning-based Plan Hints
+### Plan Hints
 
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
 
