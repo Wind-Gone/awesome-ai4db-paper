@@ -99,6 +99,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 13. [CARMI: A Cache-Aware Learned Index with a Cost-based Construction Algorithm](https://www.vldb.org/VLDB/vol15/p2679-gao.pdf) [VLDB 22]
 14. [NFL: Robust Learned Index via Distribution Transformation](https://www.vldb.org/VLDB/vol15/p2188-wu.pdf) [VLDB 22]
 15. [The next 50 years in database indexing or: the case for automatically generated index structures](https://dl.acm.org/doi/10.14778/3494124.3494136) [VLDB 21]
+16. Cutting Learned Index into Pieces: An In-depth Inquiry into Updatable Learned Indexes [ICDE 23]
 
 
 #### Multi-dimensional
@@ -117,10 +118,11 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 1. [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod19-auto-indexing.pdf) [SIGMOD 19]
 2. [Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms](http://www.vldb.org/VLDB/vol13/p2382-kossmann.pdf) [[VLDB 20](https://github.com/hyrise/index_selection_evaluation/tree/rl_index_selection)]
-3. [An Index Advisor Using Deep Reinforcement Learning](https://baozhifeng.net/papers/cikm20-IndexRec.pdf) [CIKM 20]
+3. [An Index Advisor Using Deep Reinforcement Learning](https://baozhifeng.net/papers/cikm20-IndexRec.pdf) [[CIKM 20](https://github.com/rmitbggroup/IndexAdvisor)]
 4. [DBA bandits: Self-driving index tuning under ad-hoc, analytical workloads with safety guarantees ](https://arxiv.org/pdf/2010.09208) [ICDE 21]
-5. [AutoIndex: An Incremental Index Management System for Dynamic Workloads](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde2022-autoindex.pdf) [ICDE 22] 
+5. [AutoIndex: An Incremental Index Management System for Dynamic Workloads](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde2022-autoindex.pdf) [[ICDE 22](https://github.com/zhouxh19/AutoIndex)] 
 6. [SWIRL: Selection of Workload-aware Indexes using Reinforcement Learning ](https://openproceedings.org/2022/conf/edbt/paper-37.pdf) [[EDBT 22](https://github.com/hyrise/rl_index_selection)]
 7. [Budget-aware Index Tuning with Reinforcement Learning ](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/mcts-full.pdf) [SIGMOD 22] 
 8. [DISTILL: low-overhead data-driven techniques for filtering and costing indexes for scalable index tuning](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/DISTILL.pdf) [VLDB 22]
 9. [SmartIndex: An Index Advisor with Learned Cost Estimator](https://dl.acm.org/doi/abs/10.1145/3511808.3557163) [CIKM 22]
+10. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [[VLDB 23](https://github.com/JC-Shi/Learned-Index-Benefits)]
