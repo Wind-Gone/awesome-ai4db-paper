@@ -78,6 +78,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
 
+
+
 ## Database Traditional Technology
 
 ### Learning-based Index Design
@@ -126,3 +128,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 8. [DISTILL: low-overhead data-driven techniques for filtering and costing indexes for scalable index tuning](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/DISTILL.pdf) [VLDB 22]
 9. [SmartIndex: An Index Advisor with Learned Cost Estimator](https://dl.acm.org/doi/abs/10.1145/3511808.3557163) [CIKM 22]
 10. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [[VLDB 23](https://github.com/JC-Shi/Learned-Index-Benefits)]
+
+## Database Self-Tuning
+
+1. [Detect, Distill and Update: Learned DB Systems Facing Out of Distribution Data](https://arxiv.org/pdf/2210.05508.pdf) [SIGMOD 23]
+2. [Automatic Database Management System Tuning Through Large-scale Machine Learning](https://www.cs.cmu.edu/~ggordon/van-aken-etal-parameters.pdf) [SIGMOD 17]
