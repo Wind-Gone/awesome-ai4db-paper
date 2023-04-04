@@ -70,6 +70,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [[VLDB 22](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/fork)]
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
+9. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[VLDB 23]
 
 #### Hybrid
 
@@ -80,6 +81,10 @@ If the paper has the open-souce code, please supply its github links in Meeting
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
 
 
+
+### Cost Model
+
+1. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
 
 ## Database Traditional Technology
 
