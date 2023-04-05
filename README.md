@@ -16,6 +16,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
         - [Multi-Tables](#multi-tables-1)
       - [Hybrid](#hybrid)
     - [Plan Hints](#plan-hints)
+    - [Cost Model](#cost-model)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
