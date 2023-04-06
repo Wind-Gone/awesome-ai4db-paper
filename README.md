@@ -51,6 +51,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
 2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [[VLDB 19](https://github.com/greatji/Learning-based-cost-estimator)]
 3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 23](https://github.com/Eilowangfang/LPCE)]
+5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
+6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](todo) [ICDE 23]
 
 #### Data-Driven
 
@@ -71,7 +73,6 @@ If the paper has the open-souce code, please supply its github links in Meeting
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [[VLDB 22](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/fork)]
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
-9. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
 
 #### Hybrid
 
