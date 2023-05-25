@@ -17,6 +17,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
       - [Hybrid](#hybrid)
     - [Plan Hints](#plan-hints)
     - [Cost Model](#cost-model)
+    - [SQL Embedding](#sql-embedding)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
