@@ -97,7 +97,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ### Join Order
 
-1. [Learning to Optimize Join eries With Deep Reinforcement Learning](https://arxiv.org/pdf/1808.03196.pdf) [SIGMOD 16]
+1. [Learning to Optimize Join queries With Deep Reinforcement Learning](https://arxiv.org/pdf/1808.03196.pdf) [SIGMOD 16]
 2. [Deep Reinforcement Learning for Join Order Enumeration](https://arxiv.org/pdf/1803.00055.pdf)[arXiv 18]
 3. [Reinforcement Learning with Tree-LSTM for Join Order Selection](https://qcai.qcri.org/ntang/pubs/icde20jos.pdf) [ICDE 20]
 
