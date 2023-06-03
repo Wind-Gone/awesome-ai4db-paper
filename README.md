@@ -18,6 +18,8 @@ If the paper has the open-souce code, please supply its github links in Meeting
     - [Plan Hints](#plan-hints)
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
+    - [Join Order](#join-order)
+    - [Query Rewrite](#query-rewrite)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
