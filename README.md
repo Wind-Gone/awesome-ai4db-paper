@@ -27,6 +27,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
     - [Index Advisor](#index-advisor)
   - [Database Self-Tuning](#database-self-tuning)
+  - [LLM](#llm)
 
 
 ## Learning-based Query Optimization
@@ -170,3 +171,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 3. [Detect, Distill and Update: Learned DB Systems Facing Out of Distribution Data](https://arxiv.org/pdf/2210.05508.pdf) [SIGMOD 23]
 4. [AutoSteer: Learned Query Optimization for Any SQL Database](https://files.zotero.net/eyJleHBpcmVzIjoxNjkzOTEyOTM1LCJoYXNoIjoiNzZiM2Y1NDE5OGI3NzBjOTI0NTBkZmQ4MTRhMjU2MDIiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJBbm5lc2VyIGV0IGFsLiAtIDIwMjMgLSBBdXRvU3RlZXIgTGVhcm5lZCBRdWVyeSBPcHRpbWl6YXRpb24gZm9yIEFueSBTUUwgLnBkZiJ9/14317cdbbbbe22f7074b637d497dfc63100a1c33ac4df53fe8dd8e9a0cbbad02/Anneser%20et%20al.%20-%202023%20-%20AutoSteer%20Learned%20Query%20Optimization%20for%20Any%20SQL%20.pdf) [SIGMOD 23]
 5. [Auto-WLM: Machine Learning Enhanced Workload Management in Amazon Redshif](https://files.zotero.net/eyJleHBpcmVzIjoxNjkzOTEzMDc2LCJoYXNoIjoiNWIzODAwNDAxNDkwNzI5NDdkMWU2OGI1MTE1MWU2YTIiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJHYXVyYXYgU2F4ZW5hIGV0IGFsLiAtIDIwMjMgLSBBdXRvLVdMTSBNYWNoaW5lIExlYXJuaW5nIEVuaGFuY2VkIFdvcmtsb2FkIE1hbmFnLnBkZiJ9/09cfdb42a31ac864d182519dccc997cd40c0900c8c9d0e8b41043b8629ebd58b/Gaurav%20Saxena%20et%20al.%20-%202023%20-%20Auto-WLM%20Machine%20Learning%20Enhanced%20Workload%20Manag.pdf) [SIGMOD 23]
+
+
+## LLM
+1. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
