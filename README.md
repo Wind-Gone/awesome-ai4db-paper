@@ -175,3 +175,5 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ## LLM
 1. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
+2. [D-Bot: Database Diagnosis System using Large Language Models](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf) [VLDB 24]
+3. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
