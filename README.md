@@ -15,6 +15,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
         - [Single-Table](#single-table-1)
         - [Multi-Tables](#multi-tables-1)
       - [Hybrid](#hybrid)
+      - [Pretrain](#pretrain)
     - [Plan Hints](#plan-hints)
     - [Cost Model](#cost-model)
     - [SQL Embedding](#sql-embedding)
@@ -57,6 +58,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 23](https://github.com/Eilowangfang/LPCE)]
 5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
 6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](todo) [ICDE 23]
+7. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
 
 #### Data-Driven
 
@@ -81,6 +83,9 @@ If the paper has the open-souce code, please supply its github links in Meeting
 #### Hybrid
 
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
+
+#### Pretrain
+1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://arxiv.org/pdf/2406.01027#page=1.22) [arXiv 24]
 
 ### Plan Hints
 
