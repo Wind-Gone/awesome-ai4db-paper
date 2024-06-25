@@ -32,6 +32,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 
 ## Learning-based Query Optimization
+1. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
 
 ### Cardinality Estimation
 
@@ -42,6 +43,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 3. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://kai-zeng.github.io/papers/benchmark_vldb_2021.pdf) [VLDB 21]
 4. [Learned cardinality estimation: A design space exploration and a comparative evaluation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-card-exp.pdf) [VLDB 22]
 5. [Learned Cardinality Estimation: An In-depth Study](https://dl.acm.org/doi/10.1145/3514221.3526154) [SIGMOD 22]
+6. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [VLDB 24]
 
 #### Query-Driven
 
@@ -57,7 +59,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
 4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 23](https://github.com/Eilowangfang/LPCE)]
 5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
-6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](todo) [ICDE 23]
+6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
 7. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
 
 #### Data-Driven
@@ -182,3 +184,5 @@ If the paper has the open-souce code, please supply its github links in Meeting
 1. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
 2. [D-Bot: Database Diagnosis System using Large Language Models](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf) [VLDB 24]
 3. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
+4. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
+5. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
