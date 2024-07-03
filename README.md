@@ -1,10 +1,23 @@
-# AI4DB Paper Sets
+# AI4DB Paper Sets [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcom new PR, please conform to the commited rules:  paperName(with link) [MeetingName Year]
+## Introduction
 
-If the paper has the open-souce code, please supply its github links in Meeting
+A curated paper list of awesome AI4DB <b> theory, frameworks, resources, tools</b> and other awesomeness, for data engineers.
 
-- [AI4DB Paper Sets](#ai4db-paper-sets)
+## Contributing
+
+The repository is under construction.  Welcome new PR, please conform to the committed rules: 
+
+```bash
+paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
+```
+
+## Table of Content
+
+- [AI4DB Paper Sets ](#ai4db-paper-sets-)
+  - [Introduction](#introduction)
+  - [Contributing](#contributing)
+  - [Table of Content](#table-of-content)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
     - [Cardinality Estimation](#cardinality-estimation)
       - [Survey](#survey)
@@ -54,10 +67,10 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ##### Multi-Tables
 
-1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [[CIDR 2019](https://github.com/andreaskipf/learnedcardinalities)]
-2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [[VLDB 19](https://github.com/greatji/Learning-based-cost-estimator)]
+1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [CIDR 2019]
+2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
 3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
-4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [[SIGMOD 23](https://github.com/Eilowangfang/LPCE)]
+4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
 5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
 6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
 7. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
@@ -67,24 +80,24 @@ If the paper has the open-souce code, please supply its github links in Meeting
 ##### Single-Table
 
 1. [Self-tuning, gpu-accelerated kernel density models for multidimensional selectivity estimation](https://dl.acm.org/doi/10.1145/2723372.2749438) [SIGMOD 15]
-2. [Deep Unsupervised Cardinality Estimation](http://www.vldb.org/VLDB/vol13/p279-yang.pdf) [[VLDB 19](https://github.com/naru-project/naru)]
-3. [Quicksel: Quick selectivity learning with mixture models](https://arxiv.org/pdf/1812.10568.pdf) [[SIGMOD 20](https://github.com/illinoisdata/quicksel)]
-4. [Pre-training Summarization Models of Structured Datasets for Cardinality Estimation](http://yao.lu/iris.pdf) [[VLDB 22](https://github.com/tjluyao/iris_demo)]
+2. [Deep Unsupervised Cardinality Estimation](http://www.vldb.org/VLDB/vol13/p279-yang.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/naru-project/naru?style=social&label=Code+Stars)](https://github.com/naru-project/naru)
+3. [Quicksel: Quick selectivity learning with mixture models](https://arxiv.org/pdf/1812.10568.pdf) [SIGMOD 20]  [![](https://img.shields.io/github/stars/illinoisdata/quicksel?style=social&label=Code+Stars)](https://github.com/illinoisdata/quicksel) 
+4. [Pre-training Summarization Models of Structured Datasets for Cardinality Estimation](http://yao.lu/iris.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/tjluyao/iris_demo?style=social&label=Code+Stars)]( https://github.com/tjluyao/iris_demo) 
 
 ##### Multi-Tables
 
-1. [DeepDB: Learn from Data, not from Queries!](http://www.vldb.org/VLDB/vol13/p992-hilprecht.pdf) [[VLDB 20](https://github.com/DataManagementLab/deepdb-public)]
-2. [NeuroCard: One Cardinality Estimator for All Tables](https://vldb.org/VLDB/vol14/p61-yang.pdf) [[VLDB 21](https://github.com/neurocard/neurocard)]
+1. [DeepDB: Learn from Data, not from Queries!](http://www.vldb.org/VLDB/vol13/p992-hilprecht.pdf) [VLDB 20] [![](https://img.shields.io/github/stars/DataManagementLab/deepdb-public?style=social&label=Code+Stars)](https://github.com/DataManagementLab/deepdb-public) 
+2. [NeuroCard: One Cardinality Estimator for All Tables](https://vldb.org/VLDB/vol14/p61-yang.pdf) [VLDB 21]  [![](https://img.shields.io/github/stars/neurocard/neurocard?style=social&label=Code+Stars)](https://github.com/neurocard/neurocard) 
 3. [FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation](http://www.vldb.org/VLDB/vol14/p1489-zhu.pdf) [VLDB 21]
-4. [BayesCard: Revitilizing Bayesian Frameworks for Cardinality Estimation](https://arxiv.org/pdf/2012.14743.pdf) [[aiXiv 21](https://github.com/wuziniu/BayesCard)]
+4. [BayesCard: Revitilizing Bayesian Frameworks for Cardinality Estimation](https://arxiv.org/pdf/2012.14743.pdf) [aiXiv 21] [![](https://img.shields.io/github/stars/wuziniu/BayesCard?style=social&label=Code+Stars)](https://github.com/wuziniu/BayesCard) 
 5. [Glue: Adaptively Merging Single Table Cardinality to Estimate Join Query Size](https://arxiv.org/pdf/2112.03458.pdf)  [aiXiv 21]
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
-7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [[VLDB 22](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/fork)]
+7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator?style=social&label=Code+Stars)](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/) 
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
 
 #### Hybrid
 
-1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [[SIGMOD 21](https://github.com/pagegitss/UAE)]
+1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
 
 #### Pretrain
 1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://arxiv.org/pdf/2406.01027#page=1.22) [arXiv 24]
@@ -95,7 +108,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ### Cost Model
 
-1. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [[VLDB 22](https://github.com/yxfish13/HyperQO)]
+1. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
 1. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
 
 ### SQL Embedding
@@ -111,7 +124,7 @@ If the paper has the open-souce code, please supply its github links in Meeting
 
 ### Query Rewrite
 
-1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [[VLDB 22](https://github.com/zhouxh19/LearnedRewrite)]
+1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/zhouxh19/LearnedRewrite?style=social&label=Code+Stars)](https://github.com/zhouxh19/LearnedRewrite) 
 
 ## Database Traditional Technology
 
@@ -155,21 +168,21 @@ If the paper has the open-souce code, please supply its github links in Meeting
 2. [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod19-auto-indexing.pdf) [SIGMOD 19]
 3. [Online Index Selection Using Deep Reinforcement Learning for a Cluster Database](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094124) [ICDEW 20] 
 4. [SMARTIX: A database indexing agent based on reinforcement learning](https://link.springer.com/article/10.1007/s10489-020-01674-8) [Applied Intelligence 20]
-5.  [Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms](http://www.vldb.org/VLDB/vol13/p2382-kossmann.pdf) [[VLDB 20](https://github.com/hyrise/index_selection_evaluation/tree/rl_index_selection)]
-6. [An Index Advisor Using Deep Reinforcement Learning](https://baozhifeng.net/papers/cikm20-IndexRec.pdf) [[CIKM 20](https://github.com/rmitbggroup/IndexAdvisor)]
+5.  [Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms](http://www.vldb.org/VLDB/vol13/p2382-kossmann.pdf) [VLDB 20]  [![](https://img.shields.io/github/stars/hyrise/index_selection_evaluation?style=social&label=Code+Stars)](https://github.com/hyrise/index_selection_evaluation/tree/rl_index_selection) 
+6. [An Index Advisor Using Deep Reinforcement Learning](https://baozhifeng.net/papers/cikm20-IndexRec.pdf) [CIKM 20]
 7. [Automated Database Indexing Using Model-Free Reinforcement Learning](https://icaps20subpages.icaps-conference.org/wp-content/uploads/2020/10/SPARK-2020_paper_4.pdf) [ICAPS 20]
 8. [DBA bandits: Self-driving index tuning under ad-hoc, analytical workloads with safety guarantees ](https://arxiv.org/pdf/2010.09208) [ICDE 21]
 9. [Index selection for NoSQL database with deep reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0020025521000049) [Information Sciences 21]
 10. [MANTIS: Multiple Type and Attribute Index Selection using Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3472163.3472176) [IDEAS 21]
-11. [AutoIndex: An Incremental Index Management System for Dynamic Workloads](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde2022-autoindex.pdf) [[ICDE 22](https://github.com/zhouxh19/AutoIndex)] 
-12. [SWIRL: Selection of Workload-aware Indexes using Reinforcement Learning ](https://openproceedings.org/2022/conf/edbt/paper-37.pdf) [[EDBT 22](https://github.com/hyrise/rl_index_selection)]
+11. [AutoIndex: An Incremental Index Management System for Dynamic Workloads](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/icde2022-autoindex.pdf) [ICDE 22]
+12. [SWIRL: Selection of Workload-aware Indexes using Reinforcement Learning ](https://openproceedings.org/2022/conf/edbt/paper-37.pdf) [EDBT 22]
 13. [Indexer++: Workload-Aware Online Index Tuning with Transformers and Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3477314.3507691) [SAC 22]
 14. [Budget-aware Index Tuning with Reinforcement Learning ](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/mcts-full.pdf) [SIGMOD 22] 
 15. [ISUM: Efficiently Compressing Large and Complex Workloads for Scalable Index Tuning](https://dl.acm.org/doi/10.1145/3514221.3526152) [SIGMOD 22]
 16. [DISTILL: low-overhead data-driven techniques for filtering and costing indexes for scalable index tuning](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/DISTILL.pdf) [VLDB 22]
-17. [HMAB: Self-Driving Hierarchy of Bandits for Integrated Physical Database Design Tuning](https://www.vldb.org/pvldb/vol16/p216-perera.pdf) [[VLDB 22](https://github.com/malingaperera/HMAB)]
+17. [HMAB: Self-Driving Hierarchy of Bandits for Integrated Physical Database Design Tuning](https://www.vldb.org/pvldb/vol16/p216-perera.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/malingaperera/HMAB?style=social&label=Code+Stars)](https://github.com/malingaperera/HMAB) 
 18. [SmartIndex: An Index Advisor with Learned Cost Estimator](https://dl.acm.org/doi/abs/10.1145/3511808.3557163) [CIKM 22]
-19. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [[VLDB 23](https://github.com/JC-Shi/Learned-Index-Benefits)]
+19. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/JC-Shi/Learned-Index-Benefits?style=social&label=Code+Stars)](https://github.com/JC-Shi/Learned-Index-Benefits) 
 
 ## Database Self-Tuning
 
