@@ -11,12 +11,16 @@ The repository is under construction.  Welcome new PR, please conform to the com
 ```bash
 paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
 ```
+## Acknowledge
+Thanks to all authors of the paper/repositories I cite :D
+
 
 ## Table of Content
 
 - [AI4DB Paper Sets ](#ai4db-paper-sets-)
   - [Introduction](#introduction)
   - [Contributing](#contributing)
+  - [Acknowledge](#acknowledge)
   - [Table of Content](#table-of-content)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
     - [Cardinality Estimation](#cardinality-estimation)
