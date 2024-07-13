@@ -1,6 +1,6 @@
 # AI4DB Paper Sets [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome OLAP Paper](https://img.shields.io/static/v1?label=&message=Awesome+OLAP+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-ai4db-paper)
+[![Awesome AI4DB Paper](https://img.shields.io/static/v1?label=&message=Awesome+AI4DB+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-ai4db-paper)
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-ai4db-paper?color=green)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social)](https://github.com/Wind-Gone/awesome-ai4db-paper)
 
