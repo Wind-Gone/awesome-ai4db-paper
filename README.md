@@ -1,5 +1,9 @@
 # AI4DB Paper Sets [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Awesome OLAP Paper](https://img.shields.io/static/v1?label=&message=Awesome+OLAP+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-ai4db-paper)
+![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-ai4db-paper?color=green)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social)](https://github.com/Wind-Gone/awesome-ai4db-paper)
+
 ## Introduction
 
 A curated paper list of awesome AI4DB <b> theory, frameworks, resources, tools</b> and other awesomeness, for data engineers.
@@ -12,7 +16,7 @@ The repository is under construction.  Welcome new PR, please conform to the com
 paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
 ```
 ## Acknowledge
-Thanks to all authors of the paper/repositories I cite :D
+Thanks to all authors of the paper/repository I cite :D
 
 
 ## Table of Content
@@ -203,3 +207,12 @@ Thanks to all authors of the paper/repositories I cite :D
 3. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
 4. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
 5. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
+
+
+<a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-ai4db-paper&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-ai4db-paper&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Wind-Gone/awesome-ai4db-paper&type=Date" />
+  </picture>
+</a>
