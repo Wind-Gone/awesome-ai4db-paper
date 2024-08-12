@@ -192,6 +192,17 @@ Thanks to all authors of the paper/repository I cite :D
 17. [HMAB: Self-Driving Hierarchy of Bandits for Integrated Physical Database Design Tuning](https://www.vldb.org/pvldb/vol16/p216-perera.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/malingaperera/HMAB?style=social&label=Code+Stars)](https://github.com/malingaperera/HMAB) 
 18. [SmartIndex: An Index Advisor with Learned Cost Estimator](https://dl.acm.org/doi/abs/10.1145/3511808.3557163) [CIKM 22]
 19. [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) [VLDB 23] [![](https://img.shields.io/github/stars/JC-Shi/Learned-Index-Benefits?style=social&label=Code+Stars)](https://github.com/JC-Shi/Learned-Index-Benefits) 
+20. [No DBA? No Regret! Multi-Armed Bandits for Index Tuning of Analytical and HTAP Workloads With Provable Guarantees](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10113193) [TKDE 23]
+22. [IA2: Leveraging Instance-Aware Index Advisor with Reinforcement Learning for Diverse Workloads](https://dl.acm.org/doi/10.1145/3642970.3655839) [EuroMLSys 24]
+23. [Leveraging Dynamic and Heterogeneous Workload Knowledge to Boost the Performance of Index Advisors](https://dl.acm.org/doi/10.14778/3654621.3654631) [PVLDB 24]
+24. [Refactoring Index Tuning Process with Benefit Estimation](https://dl.acm.org/doi/10.14778/3654621.3654622) [PVLDB 24]
+25. [Breaking It Down: An In-Depth Study of Index Advisors](https://dl.acm.org/doi/10.14778/3675034.3675035) [PVLDB 24]
+26. [TRAP: Tailored Robustness Assessment for Index Advisors via Adversarial Perturbation](https://ieeexplore.ieee.org/document/10597867) [ICDE 24]
+27. [Automatic Database Index Tuning: A Survey](https://ieeexplore.ieee.org/document/10582533) [TKDE 24]
+28. [Robustness of Updatable Learning-based Index Advisors against Poisoning Attack](https://dl.acm.org/doi/10.1145/3639265) [SIGMOD 24]
+29. [Wii: Dynamic Budget Reallocation In Index Tuning](https://dl.acm.org/doi/10.1145/3654985) [SIGMOD 24]
+30. [Wred: Workload Reduction for Scalable Index Tuning](https://dl.acm.org/doi/10.1145/3639305) [SIGMOD 24]
+31. [ML-Powered Index Tuning: An Overview of Recent Progress and Open Challenges](https://dl.acm.org/doi/10.1145/3641832.3641836) [SIGMOD 24]
 
 ## Database Self-Tuning
 
