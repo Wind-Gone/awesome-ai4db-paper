@@ -218,6 +218,8 @@ Thanks to all authors of the paper/repository I cite :D
 2. [D-Bot: Database Diagnosis System using Large Language Models](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf) [VLDB 24]
 3. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
 4. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
+5. [A Survey on Large Language Models for Code Generation](https://arxiv.org/pdf/2406.00515) [arXiv 24]
+6. [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748) [ICSE 24]
 
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
