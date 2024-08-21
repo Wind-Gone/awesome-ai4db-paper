@@ -27,8 +27,9 @@ Thanks to all authors of the paper/repository I cite :D
   - [Acknowledge](#acknowledge)
   - [Table of Content](#table-of-content)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
+    - [Survey](#survey)
     - [Cardinality Estimation](#cardinality-estimation)
-      - [Survey](#survey)
+      - [Survey](#survey-1)
       - [Query-Driven](#query-driven)
         - [Single-Table](#single-table)
         - [Multi-Tables](#multi-tables)
@@ -42,6 +43,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [SQL Embedding](#sql-embedding)
     - [Join Order](#join-order)
     - [Query Rewrite](#query-rewrite)
+    - [End-to-end System](#end-to-end-system)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
@@ -55,6 +57,10 @@ Thanks to all authors of the paper/repository I cite :D
 ## Learning-based Query Optimization
 1. [LEON: A New Framework for ML-Aided Query Optimization](https://www.vldb.org/pvldb/vol16/p2261-chen.pdf) [VLDB 23]
 2. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
+3. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
+
+### Survey
+1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
 
 ### Cardinality Estimation
 
@@ -134,6 +140,9 @@ Thanks to all authors of the paper/repository I cite :D
 ### Query Rewrite
 
 1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/zhouxh19/LearnedRewrite?style=social&label=Code+Stars)](https://github.com/zhouxh19/LearnedRewrite) 
+
+### End-to-end System
+1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
 
 ## Database Traditional Technology
 
