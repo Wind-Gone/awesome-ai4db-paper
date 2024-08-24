@@ -44,6 +44,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [Join Order](#join-order)
     - [Query Rewrite](#query-rewrite)
     - [End-to-end System](#end-to-end-system)
+    - [Text2SQL](#text2sql)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
@@ -145,6 +146,9 @@ Thanks to all authors of the paper/repository I cite :D
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
 
+### Text2SQL
+1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
+
 ## Database Traditional Technology
 
 ### Learning-based Index Design
@@ -230,6 +234,8 @@ Thanks to all authors of the paper/repository I cite :D
 4. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
 5. [A Survey on Large Language Models for Code Generation](https://arxiv.org/pdf/2406.00515) [arXiv 24]
 6. [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748) [ICSE 24]
+7. [LLM-PBE: Assessing Data Privacy in Large Language Models](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
+8. [Are Large Language Models a Good Replacement of Taxonomies?](https://www.vldb.org/pvldb/vol17/p2919-sun.pdf) [VLDB 24]
 
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
