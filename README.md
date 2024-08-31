@@ -57,11 +57,12 @@ Thanks to all authors of the paper/repository I cite :D
 
 ## Learning-based Query Optimization
 1. [LEON: A New Framework for ML-Aided Query Optimization](https://www.vldb.org/pvldb/vol16/p2261-chen.pdf) [VLDB 23]
-2. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
-3. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
-4.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
-5.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [arXiv 24]
-6.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
+2. [Eraser: Eliminating Performance Regression on Learned Query Optimizer](https://bolinding.github.io/papers/vldb24eraser.pdf) [VLDB 24]
+3. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
+4. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
+5.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
+6.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [arXiv 24]
+7.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
@@ -130,6 +131,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 1. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
 1. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
+2. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
 
 ### SQL Embedding
 
