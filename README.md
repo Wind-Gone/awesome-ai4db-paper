@@ -61,7 +61,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
 4. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
 5.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
-6.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [arXiv 24]
+6.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
 7.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 
 ### Survey
