@@ -46,6 +46,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [End-to-end System](#end-to-end-system)
     - [Text2SQL](#text2sql)
   - [Database Traditional Technology](#database-traditional-technology)
+    - [Storage](#storage)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
@@ -156,6 +157,10 @@ Thanks to all authors of the paper/repository I cite :D
 1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
 
 ## Database Traditional Technology
+
+### Storage
+1. [Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine](https://stratos.seas.harvard.edu/files/stratos/files/2022pvldb_cosine.pdf) [VLDB 24]
+2. [Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines](https://chatterjeesubarna.github.io/files/Limousine.pdf) [SIGMOD 24]
 
 ### Learning-based Index Design
 
