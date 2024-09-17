@@ -4,6 +4,7 @@
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-ai4db-paper?color=green)
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-ai4db-paper)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social)](https://github.com/Wind-Gone/awesome-ai4db-paper)
+[![GitHub Repo forks](https://img.shields.io/github/forks/Wind-Gone/awesome-ai4db-paper?style=social)](https://github.com/Wind-Gone/awesome-ai4db-paper)
 
 ## Introduction
 
