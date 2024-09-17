@@ -2,6 +2,7 @@
 
 [![Awesome AI4DB Paper](https://img.shields.io/static/v1?label=&message=Awesome+AI4DB+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-ai4db-paper)
 ![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-ai4db-paper?color=green)
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-ai4db-paper)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social)](https://github.com/Wind-Gone/awesome-ai4db-paper)
 
 ## Introduction
@@ -152,6 +153,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
+2. [Db2une: Tuning Under Pressure via Deep Learning](https://www.vldb.org/pvldb/vol17/p3855-bianchi.pdf) [VLDB 24]
 
 ### Text2SQL
 1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
