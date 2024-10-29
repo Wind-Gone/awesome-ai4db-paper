@@ -60,13 +60,14 @@ Thanks to all authors of the paper/repository I cite :D
 
 ## Learning-based Query Optimization
 1. [LEON: A New Framework for ML-Aided Query Optimization](https://www.vldb.org/pvldb/vol16/p2261-chen.pdf) [VLDB 23]
-2. [Eraser: Eliminating Performance Regression on Learned Query Optimizer](https://bolinding.github.io/papers/vldb24eraser.pdf) [VLDB 24]
-3. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
-4. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
-5.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
-6.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
-7.  [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
-8.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
+2. [LOGER: A Learned Optimizer towards Generating Efficient and Robust Query Execution Plans](https://www.vldb.org/pvldb/vol16/p1777-gao.pdf) [VLDB 23]
+3. [Eraser: Eliminating Performance Regression on Learned Query Optimizer](https://bolinding.github.io/papers/vldb24eraser.pdf) [VLDB 24]
+4. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
+5. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
+6.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
+7.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
+8.  [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
+9.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
