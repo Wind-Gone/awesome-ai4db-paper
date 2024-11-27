@@ -120,6 +120,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator?style=social&label=Code+Stars)](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/) 
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
+9. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
 
 #### Hybrid
 
@@ -253,6 +254,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748) [ICSE 24]
 7. [LLM-PBE: Assessing Data Privacy in Large Language Models](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
 8. [Are Large Language Models a Good Replacement of Taxonomies?](https://www.vldb.org/pvldb/vol17/p2919-sun.pdf) [VLDB 24]
+9. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning]() [SIGMOD 25]
 
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
