@@ -255,6 +255,8 @@ Thanks to all authors of the paper/repository I cite :D
 7. [LLM-PBE: Assessing Data Privacy in Large Language Models](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
 8. [Are Large Language Models a Good Replacement of Taxonomies?](https://www.vldb.org/pvldb/vol17/p2919-sun.pdf) [VLDB 24]
 9. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning]() [SIGMOD 25]
+10. [LLM-R2 : A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://www.vldb.org/pvldb/vol18/p53-yuan.pdf) [VLDB 25]
+11. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
 
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
