@@ -29,6 +29,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Acknowledge](#acknowledge)
   - [Table of Content](#table-of-content)
   - [Learning-based Query Optimization](#learning-based-query-optimization)
+    - [Training Data Set Preparation](#training-data-set-preparation)
     - [Survey](#survey)
     - [Cardinality Estimation](#cardinality-estimation)
       - [Survey](#survey-1)
@@ -68,6 +69,12 @@ Thanks to all authors of the paper/repository I cite :D
 7.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
 8.  [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
 9.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
+
+### Training Data Set Preparation
+1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
+2. [Expand your training limits! generating training data for ml-based data management](https://itu.dk/~joqu/assets/publications/sigmod21c.pdf) [VLDB 21]
+3. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
+4. [Hit the Gym: Accelerating Query Execution to Efficiently Bootstrap Behavior Models for Self-Driving Database Management Systems](https://www.vldb.org/pvldb/vol17/p3680-lim.pdf) [VLDB 24]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
@@ -142,7 +149,6 @@ Thanks to all authors of the paper/repository I cite :D
 ### SQL Embedding
 
 1. [PreQR: Pre-training Representation for SQL Understanding](https://dl.acm.org/doi/abs/10.1145/3514221.3517878) [SIGMOD 22]
-2. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) (SIGMOD 22)
 
 ### Join Order
 
