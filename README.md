@@ -130,7 +130,6 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
 
 #### Hybrid
-
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
 
 #### Pretrain
@@ -141,9 +140,10 @@ Thanks to all authors of the paper/repository I cite :D
 2. [COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations](https://arxiv.org/pdf/2304.04407) [VLDB 23] [![](https://img.shields.io/github/stars/xianghongxu/COOOL?style=social&label=Code+Stars)](https://github.com/xianghongxu/COOOL)
 
 ### Cost Model
-1. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
-2. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
-3. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
+1. [Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction](https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf) [VLDB 22]
+2. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
+3. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
+4. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
 
 ### SQL Embedding
 
@@ -162,6 +162,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
 2. [Db2une: Tuning Under Pressure via Deep Learning](https://www.vldb.org/pvldb/vol17/p3855-bianchi.pdf) [VLDB 24]
+3. [PilotScope: Steering Databases with Machine Learning Drivers](https://dl.acm.org/doi/pdf/10.14778/3641204.3641209) [VLDB 24]
 
 ### Text2SQL
 1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
