@@ -210,7 +210,6 @@ Thanks to all authors of the paper/repository I cite :D
 ## Learning-based Configuration Advisor
 
 ### Index Advisor
-
 1. [The Case for Automatic Database Administration using Deep Reinforcement Learning](https://arxiv.org/abs/1801.05643) [arXiv 18]
 2. [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod19-auto-indexing.pdf) [SIGMOD 19]
 3. [Online Index Selection Using Deep Reinforcement Learning for a Cluster Database](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9094124) [ICDEW 20] 
@@ -260,9 +259,12 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/pdf/2308.04748) [ICSE 24]
 7. [LLM-PBE: Assessing Data Privacy in Large Language Models](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
 8. [Are Large Language Models a Good Replacement of Taxonomies?](https://www.vldb.org/pvldb/vol17/p2919-sun.pdf) [VLDB 24]
-9. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning]() [SIGMOD 25]
-10. [LLM-R2 : A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://www.vldb.org/pvldb/vol18/p53-yuan.pdf) [VLDB 25]
-11. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
+9. [A survey on augmenting knowledge graphs (KGs) with large language models (LLMs): models, evaluation metrics, benchmarks, and challenges](https://link.springer.com/content/pdf/10.1007/s44163-024-00175-8.pdf) [Discover Artificial Intelligence 24]
+10. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning]() [SIGMOD 25]
+11. [LLM-R2 : A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://www.vldb.org/pvldb/vol18/p53-yuan.pdf) [VLDB 25]
+12. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
+13. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) [arXiv 25]
+14. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
 
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
