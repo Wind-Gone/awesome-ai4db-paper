@@ -137,7 +137,8 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Plan Hints
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
-2. [COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations](https://arxiv.org/pdf/2304.04407) [VLDB 23] [![](https://img.shields.io/github/stars/xianghongxu/COOOL?style=social&label=Code+Stars)](https://github.com/xianghongxu/COOOL)
+2. [FASTgres: Making Learned Query Optimizer Hinting Effective](https://www.vldb.org/pvldb/vol16/p3310-habich.pdf) [VLDB 23]
+3. [COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations](https://arxiv.org/pdf/2304.04407) [VLDB 23] [![](https://img.shields.io/github/stars/xianghongxu/COOOL?style=social&label=Code+Stars)](https://github.com/xianghongxu/COOOL)
 
 ### Cost Model
 1. [Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction](https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf) [VLDB 22]
