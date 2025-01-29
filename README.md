@@ -51,6 +51,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Database Traditional Technology](#database-traditional-technology)
     - [Storage](#storage)
     - [Learning-based Index Design](#learning-based-index-design)
+      - [Survey](#survey-2)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
@@ -177,6 +178,9 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines](https://chatterjeesubarna.github.io/files/Limousine.pdf) [SIGMOD 24]
 
 ### Learning-based Index Design
+
+#### Survey
+1. [Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs](https://dl.acm.org/doi/pdf/10.1145/3654919) [SIGMOD 24]
 
 #### Single-dimensional
 
