@@ -58,19 +58,21 @@ Thanks to all authors of the paper/repository I cite :D
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
     - [Index Advisor](#index-advisor)
   - [Database Self-Tuning](#database-self-tuning)
+    - [Survey](#survey-4)
   - [LLM](#llm)
 
 
 ## Learning-based Query Optimization
 1. [LEON: A New Framework for ML-Aided Query Optimization](https://www.vldb.org/pvldb/vol16/p2261-chen.pdf) [VLDB 23]
 2. [LOGER: A Learned Optimizer towards Generating Efficient and Robust Query Execution Plans](https://www.vldb.org/pvldb/vol16/p1777-gao.pdf) [VLDB 23]
-3. [Eraser: Eliminating Performance Regression on Learned Query Optimizer](https://bolinding.github.io/papers/vldb24eraser.pdf) [VLDB 24]
-4. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
-5. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
-6.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
-7.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
-8.  [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
-9.  [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
+3. [FOSS: A Self-Learned Doctor for Query Optimizer](https://arxiv.org/pdf/2312.06357) [ICDE 23]
+4. [Eraser: Eliminating Performance Regression on Learned Query Optimizer](https://bolinding.github.io/papers/vldb24eraser.pdf) [VLDB 24]
+5. [AutoSteer: Learned Query Optimization for Any SQL Database](https://db.in.tum.de/~anneser/autosteer-paper.pdf) [VLDB 24]
+6. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
+7.  [Stage: Query Execution Time Prediction in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3626246.3653391) [SIGMOD 24]
+8.  [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
+9.  [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
+10. [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -268,6 +270,9 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Detect, Distill and Update: Learned DB Systems Facing Out of Distribution Data](https://arxiv.org/pdf/2210.05508.pdf) [SIGMOD 23]
 4. [AutoSteer: Learned Query Optimization for Any SQL Database](https://files.zotero.net/eyJleHBpcmVzIjoxNjkzOTEyOTM1LCJoYXNoIjoiNzZiM2Y1NDE5OGI3NzBjOTI0NTBkZmQ4MTRhMjU2MDIiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJBbm5lc2VyIGV0IGFsLiAtIDIwMjMgLSBBdXRvU3RlZXIgTGVhcm5lZCBRdWVyeSBPcHRpbWl6YXRpb24gZm9yIEFueSBTUUwgLnBkZiJ9/14317cdbbbbe22f7074b637d497dfc63100a1c33ac4df53fe8dd8e9a0cbbad02/Anneser%20et%20al.%20-%202023%20-%20AutoSteer%20Learned%20Query%20Optimization%20for%20Any%20SQL%20.pdf) [SIGMOD 23]
 5. [Auto-WLM: Machine Learning Enhanced Workload Management in Amazon Redshif](https://files.zotero.net/eyJleHBpcmVzIjoxNjkzOTEzMDc2LCJoYXNoIjoiNWIzODAwNDAxNDkwNzI5NDdkMWU2OGI1MTE1MWU2YTIiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJHYXVyYXYgU2F4ZW5hIGV0IGFsLiAtIDIwMjMgLSBBdXRvLVdMTSBNYWNoaW5lIExlYXJuaW5nIEVuaGFuY2VkIFdvcmtsb2FkIE1hbmFnLnBkZiJ9/09cfdb42a31ac864d182519dccc997cd40c0900c8c9d0e8b41043b8629ebd58b/Gaurav%20Saxena%20et%20al.%20-%202023%20-%20Auto-WLM%20Machine%20Learning%20Enhanced%20Workload%20Manag.pdf) [SIGMOD 23]
+
+### Survey
+1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
 
 
 ## LLM
