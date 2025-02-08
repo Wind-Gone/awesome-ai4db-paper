@@ -43,6 +43,7 @@ Thanks to all authors of the paper/repository I cite :D
       - [Pretrain](#pretrain)
     - [Plan Hints](#plan-hints)
     - [Cost Model](#cost-model)
+      - [Survey](#survey-2)
     - [SQL Embedding](#sql-embedding)
     - [Join Order](#join-order)
     - [Query Rewrite](#query-rewrite)
@@ -51,7 +52,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [Database Traditional Technology](#database-traditional-technology)
     - [Storage](#storage)
     - [Learning-based Index Design](#learning-based-index-design)
-      - [Survey](#survey-2)
+      - [Survey](#survey-3)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
@@ -108,6 +109,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
 7. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
 8. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]
+9. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]
 
 #### Data-Driven
 
@@ -129,6 +131,7 @@ Thanks to all authors of the paper/repository I cite :D
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator?style=social&label=Code+Stars)](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/) 
 8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
 9. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
+10. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
@@ -146,6 +149,10 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
 3. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
 4. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
+5. [DACE: A Database-Agnostic Cost Estimator](https://zheng-kai.com/paper/icde_2024_liang.pdf) [ICDE 24]
+
+#### Survey
+1. [How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks](https://arxiv.org/pdf/2502.01229) [SIGMOD 25]
 
 ### SQL Embedding
 
