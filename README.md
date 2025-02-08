@@ -145,11 +145,13 @@ Thanks to all authors of the paper/repository I cite :D
 3. [COOOL: A Learning-To-Rank Approach for SQL Hint Recommendations](https://arxiv.org/pdf/2304.04407) [VLDB 23] [![](https://img.shields.io/github/stars/xianghongxu/COOOL?style=social&label=Code+Stars)](https://github.com/xianghongxu/COOOL)
 
 ### Cost Model
-1. [Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction](https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf) [VLDB 22]
-2. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
-3. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
-4. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
-5. [DACE: A Database-Agnostic Cost Estimator](https://zheng-kai.com/paper/icde_2024_liang.pdf) [ICDE 24]
+1. [Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload](https://dl.acm.org/doi/10.1145/3448016.3457546) [SIGMOD 21]
+2. [A Resource-Aware Deep Cost Model for Big Data Query Processing](https://ieeexplore.ieee.org/document/9835426/) [ICDE 22]
+3. [Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction](https://www.vldb.org/pvldb/vol15/p2361-hilprecht.pdf) [VLDB 22]
+4. [Cost-based or Learning-based? A Hybrid Query Optimizer for Query Plan Selection](https://www.vldb.org/pvldb/vol15/p3924-li.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/yxfish13/HyperQO?style=social&label=Code+Stars)](https://github.com/yxfish13/HyperQO) 
+5. [Lero: A Learning-to-Rank Qery Optimizer](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf) [VLDB 23]
+6. [Lero: applying learning-to-rank in query optimizer](https://link.springer.com/article/10.1007/s00778-024-00850-3) [VLDBJ 24]
+7. [DACE: A Database-Agnostic Cost Estimator](https://zheng-kai.com/paper/icde_2024_liang.pdf) [ICDE 24]
 
 #### Survey
 1. [How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks](https://arxiv.org/pdf/2502.01229) [SIGMOD 25]
