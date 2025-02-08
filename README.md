@@ -104,12 +104,14 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [CIDR 2019]
 2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
 3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
-4. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
-5. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
-6. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
-7. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
-8. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]
-9. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]
+4. [Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts](https://yao.lu/warper.pdf) [SIGMOD 22]
+5. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
+6. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
+7. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]
+8. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
+9. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
+10. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]
+11. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]
 
 #### Data-Driven
 
@@ -129,9 +131,13 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Glue: Adaptively Merging Single Table Cardinality to Estimate Join Query Size](https://arxiv.org/pdf/2112.03458.pdf)  [aiXiv 21]
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
 7. [FACE: a normalizing flow based cardinality estimator](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-flow-card.pdf) [VLDB 22]  [![](https://img.shields.io/github/stars/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator?style=social&label=Code+Stars)](https://github.com/for0nething/FACE-A-Normalizing-Flow-based-Cardinality-Estimator/) 
-8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22] (Bounded)
-9. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
-10. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
+8. [FactorJoin: A New Cardinality Estimation Framework for Join Queries](https://arxiv.org/pdf/2212.05526.pdf) [SIGMOD 22]
+9. [Cardinality estimation using normalizing flow](https://link.springer.com/article/10.1007/s00778-023-00808-x) [VLDBJ 23]
+10. [CEDA: Learned Cardinality Estimation with Domain Adaptation](https://dl.acm.org/doi/abs/10.14778/3611540.3611589) [VLDB 23]
+11. [LPLM: A Neural Language Model for Cardinality Estimation of LIKE-Queries](https://dl.acm.org/doi/pdf/10.1145/3639309) [SIGMOD 24]
+12. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
+13. [Grid-AR: A Grid–based Booster for Learned Cardinality Estimation and Range Joins](https://arxiv.org/pdf/2410.07895) [arXiv 25]
+14. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
