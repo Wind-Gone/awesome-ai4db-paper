@@ -96,7 +96,6 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://kai-zeng.github.io/papers/benchmark_vldb_2021.pdf) [VLDB 21]
 4. [Learned cardinality estimation: A design space exploration and a comparative evaluation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-card-exp.pdf) [VLDB 22]
 5. [Learned Cardinality Estimation: An In-depth Study](https://dl.acm.org/doi/10.1145/3514221.3526154) [SIGMOD 22] [![](https://img.shields.io/github/stars/postechdblab/learned-cardinality-estimation?style=social&label=Code+Stars)](https://github.com/postechdblab/learned-cardinality-estimation?tab=readme-ov-file)
-6. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [VLDB 24]
 
 #### Query-Driven
 
@@ -171,6 +170,8 @@ Thanks to all authors of the paper/repository I cite :D
 ### SQL Embedding
 
 1. [PreQR: Pre-training Representation for SQL Understanding](https://dl.acm.org/doi/abs/10.1145/3514221.3517878) [SIGMOD 22]
+2. [QueryFormer: A Tree Transformer Model for Query Plan Representation](https://www.vldb.org/pvldb/vol15/p1658-zhao.pdf) [VLDB 22]
+3. [A Comparative Study and Component Analysis of Query Plan Representation Techniques in ML4DB Studies](https://www.vldb.org/pvldb/vol17/p823-zhao.pdf) [VLDB 24]
 
 ### Join Order
 
@@ -181,6 +182,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### Query Rewrite
 
 1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/zhouxh19/LearnedRewrite?style=social&label=Code+Stars)](https://github.com/zhouxh19/LearnedRewrite) 
+2. [LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://arxiv.org/pdf/2404.12872) [VLDB 25]
 
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
@@ -197,6 +199,8 @@ Thanks to all authors of the paper/repository I cite :D
 2. [TreeLine: An Update-In-Place Key-Value Store for Modern Storage](https://par.nsf.gov/servlets/purl/10413747) [VLDB 22] [![](https://img.shields.io/github/stars/mitdbg/treeline?style=social&label=Code+Stars)](https://github.com/mitdbg/treeline) 
 3. [Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads](https://dl.acm.org/doi/pdf/10.1145/3617333) [SIGMOD 23]
 4. [Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines](https://chatterjeesubarna.github.io/files/Limousine.pdf) [SIGMOD 24]
+5. [CAMAL: Optimizing LSM-trees via Active Learning]() [SIGMOD 25]
+6. [NEXT: A New Secondary Index Framework for LSM-based Data Storage]() [SIGMOD 25]
 
 ### Learning-based Index Design
 
@@ -294,7 +298,6 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
 13. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) [arXiv 25]
 14. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
-
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
