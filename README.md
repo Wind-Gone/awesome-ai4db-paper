@@ -76,7 +76,7 @@ Thanks to all authors of the paper/repository I cite :D
 10. [Roq: Robust Query Optimization Based on a Risk-aware Learned Cost Model](https://arxiv.org/pdf/2401.15210) [arXiv 24]
 11. [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
 12. [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
-13. [RankPQO: Learning-to-Rank for Parametric Query Optimization]() [VLDB 25]
+13. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://github.com/songsong945/RankPQO/blob/main/RankPQO_Technical_Report.pdf) [VLDB 25]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -141,7 +141,7 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Cardinality estimation using normalizing flow](https://link.springer.com/article/10.1007/s00778-023-00808-x) [VLDBJ 23]
 10. [CEDA: Learned Cardinality Estimation with Domain Adaptation](https://dl.acm.org/doi/abs/10.14778/3611540.3611589) [VLDB 23]
 11. [LPLM: A Neural Language Model for Cardinality Estimation of LIKE-Queries](https://dl.acm.org/doi/pdf/10.1145/3639309) [SIGMOD 24]
-12. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning]() [SIGMOD 25]
+12. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3709670) [SIGMOD 25]
 13. [Grid-AR: A Grid–based Booster for Learned Cardinality Estimation and Range Joins](https://arxiv.org/pdf/2410.07895) [arXiv 25]
 14. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
 
@@ -281,7 +281,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Auto-WLM: Machine Learning Enhanced Workload Management in Amazon Redshif](https://files.zotero.net/eyJleHBpcmVzIjoxNjkzOTEzMDc2LCJoYXNoIjoiNWIzODAwNDAxNDkwNzI5NDdkMWU2OGI1MTE1MWU2YTIiLCJjb250ZW50VHlwZSI6ImFwcGxpY2F0aW9uXC9wZGYiLCJjaGFyc2V0IjoiIiwiZmlsZW5hbWUiOiJHYXVyYXYgU2F4ZW5hIGV0IGFsLiAtIDIwMjMgLSBBdXRvLVdMTSBNYWNoaW5lIExlYXJuaW5nIEVuaGFuY2VkIFdvcmtsb2FkIE1hbmFnLnBkZiJ9/09cfdb42a31ac864d182519dccc997cd40c0900c8c9d0e8b41043b8629ebd58b/Gaurav%20Saxena%20et%20al.%20-%202023%20-%20Auto-WLM%20Machine%20Learning%20Enhanced%20Workload%20Manag.pdf) [SIGMOD 23]
 6. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
 7. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
-8. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning]() [SIGMOD 25]
+8. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning](https://dl.acm.org/doi/pdf/10.1145/3709652) [SIGMOD 25]
 
 ### Survey
 1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
@@ -290,6 +290,7 @@ Thanks to all authors of the paper/repository I cite :D
 ## Database System Safety
 1. [D-Bot: Database Diagnosis System using Large Language Models](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf) [VLDB 24]
 2. [Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG](https://arxiv.org/pdf/2406.11147) [arXiv 25]
+3. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://dl.acm.org/doi/pdf/10.1145/3709663) [SIGMOD 25]
 
 ## LLM
 1. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
