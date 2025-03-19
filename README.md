@@ -87,6 +87,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
+2. [NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling](https://arxiv.org/pdf/2503.13822) [arXiv 25]
 
 ### Cardinality Estimation
 
