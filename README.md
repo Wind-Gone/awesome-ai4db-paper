@@ -193,6 +193,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 ### Text2SQL
 1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
+2. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL]() [SIGMOD Demo 25]
 
 ## Database Traditional Technology
 
