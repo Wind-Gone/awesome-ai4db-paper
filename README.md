@@ -239,6 +239,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](http://vldb.org/VLDB/vol14/p74-ding.pdf) [VLDB 21]
 6. [NEIST: a Neural-Enhanced Index for Spatio-Temporal Queries](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861025) [TKDE 21]
 7. [RW-Tree: A Learned Workload-aware Framework for R-tree Construction](https://ieeexplore.ieee.org/abstract/document/9835605/) [ICDE 22]
+8. [A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach]() [SIGMOD 25]
 
 ## Learning-based Configuration Advisor
 
@@ -284,6 +285,8 @@ Thanks to all authors of the paper/repository I cite :D
 6. [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://www.vldb.org/pvldb/vol17/p1939-tang.pdf) [VLDB 24]
 7. [LLMTune: Accelerate Database Knob Tuning with Large Language Models](https://arxiv.org/pdf/2404.11581) [VLDB 24]
 8. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning](https://dl.acm.org/doi/pdf/10.1145/3709652) [SIGMOD 25]
+9. [Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning]() [ICDE 25]
+10. [Autotuning Systems: Techniques, Challenges, and Opportunities]() [SIGMOD 25 Tutorial]
 
 ### Survey
 1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
@@ -304,6 +307,7 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
 8. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) [arXiv 25]
 9. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
+10. [Data+AI: LLM4Data and Data4LLM]() [SIGMOD 25 Tutorial]
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
