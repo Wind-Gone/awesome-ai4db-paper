@@ -150,7 +150,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
 
 #### Pretrain
-1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://arxiv.org/pdf/2406.01027#page=1.22) [arXiv 24]
+1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://www.vldb.org/pvldb/vol18/p637-zhu.pdf) [VLDB 25]
 
 ### Plan Hints
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
