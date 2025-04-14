@@ -112,7 +112,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
 3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
 4. [Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts](https://yao.lu/warper.pdf) [SIGMOD 22]
-5. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www.fangwang.online/_files/ugd/5d2324_ddbbd368d939421e9f2b7295b919d90d.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
+5. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www4.comp.polyu.edu.hk/~csmlyiu/conf/SIGMOD23_LPCE.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
 6. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
 7. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]
 8. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
