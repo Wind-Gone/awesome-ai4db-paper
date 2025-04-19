@@ -77,6 +77,7 @@ Thanks to all authors of the paper/repository I cite :D
 11. [RobOpt: A Tool for Robust Workload Optimization Based on Uncertainty-Aware Machine Learning](https://dl.acm.org/doi/abs/10.1145/3626246.3654755) [SIGMOD Demo 24]
 12. [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 13. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://github.com/songsong945/RankPQO/blob/main/RankPQO_Technical_Report.pdf) [VLDB 25]
+14. [LEAP: A Low-cost Spark SQL Query Optimizer using Pairwise Comparison](https://www.vldb.org/pvldb/vol18/p675-chen.pdf) [VLDB 25]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
