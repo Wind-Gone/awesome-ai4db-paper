@@ -288,6 +288,7 @@ Thanks to all authors of the paper/repository I cite :D
 8. [𝜆-Tune: Harnessing Large Language Models for Automated Database System Tuning](https://dl.acm.org/doi/pdf/10.1145/3709652) [SIGMOD 25]
 9. [Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning]() [ICDE 25]
 10. [Autotuning Systems: Techniques, Challenges, and Opportunities]() [SIGMOD 25 Tutorial]
+11. [E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model](https://www.vldb.org/pvldb/vol18/p1466-huang.pdf#page=1.38) [VLDB 25]
 
 ### Survey
 1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
