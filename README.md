@@ -126,7 +126,7 @@ Thanks to all authors of the paper/repository I cite :D
 ##### Single-Table
 
 1. [Self-tuning, gpu-accelerated kernel density models for multidimensional selectivity estimation](https://dl.acm.org/doi/10.1145/2723372.2749438) [SIGMOD 15]
-2. [Deep Unsupervised Cardinality Estimation](http://www.vldb.org/VLDB/vol13/p279-yang.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/naru-project/naru?style=social&label=Code+Stars)](https://github.com/naru-project/naru)
+2. [Deep Unsupervised Cardinality Estimation](https://zongheng.me/pubs/naru-vldb20.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/naru-project/naru?style=social&label=Code+Stars)](https://github.com/naru-project/naru)
 3. [Quicksel: Quick selectivity learning with mixture models](https://arxiv.org/pdf/1812.10568.pdf) [SIGMOD 20]  [![](https://img.shields.io/github/stars/illinoisdata/quicksel?style=social&label=Code+Stars)](https://github.com/illinoisdata/quicksel) 
 4. [Pre-training Summarization Models of Structured Datasets for Cardinality Estimation](http://yao.lu/iris.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/tjluyao/iris_demo?style=social&label=Code+Stars)]( https://github.com/tjluyao/iris_demo) 
 
