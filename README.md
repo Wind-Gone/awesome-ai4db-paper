@@ -50,6 +50,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [End-to-end System](#end-to-end-system)
     - [Text2SQL](#text2sql)
   - [Database Traditional Technology](#database-traditional-technology)
+    - [Query Processing](#query-processing)
     - [Storage](#storage)
     - [Learning-based Index Design](#learning-based-index-design)
       - [Survey](#survey-3)
@@ -85,6 +86,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) [SIGMOD 22]
 4. [Hit the Gym: Accelerating Query Execution to Efficiently Bootstrap Behavior Models for Self-Driving Database Management Systems](https://www.vldb.org/pvldb/vol17/p3680-lim.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/lmwnshn/boot?style=social&label=Code+Stars)](https://github.com/lmwnshn/boot) 
 5. [Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation]() [ICDE Demo 25]
+6. [Towards a Unified Query Plan Representation]() [ICDE 25]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
@@ -198,6 +200,12 @@ Thanks to all authors of the paper/repository I cite :D
 
 ## Database Traditional Technology
 
+### Query Processing
+1. [MemQ: A Graph-Based Query Memory Prediction Framework for Effective Workload Scheduling]() [ICDE 25]
+2. [Towards Automatic and Efficient Prediction Query Processing in Analytical Database]() [ICDE 25]
+3. [LORE: Learning-based Resource Recommendation for Big Data Queries]() [ICDE 25]
+4. [BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning]() [ICDE 25]
+
 ### Storage
 1. [Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine](https://stratos.seas.harvard.edu/files/stratos/files/2022pvldb_cosine.pdf) [VLDB 22]
 2. [TreeLine: An Update-In-Place Key-Value Store for Modern Storage](https://par.nsf.gov/servlets/purl/10413747) [VLDB 22] [![](https://img.shields.io/github/stars/mitdbg/treeline?style=social&label=Code+Stars)](https://github.com/mitdbg/treeline) 
@@ -289,6 +297,7 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning]() [ICDE 25]
 10. [Autotuning Systems: Techniques, Challenges, and Opportunities]() [SIGMOD 25 Tutorial]
 11. [E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model](https://www.vldb.org/pvldb/vol18/p1466-huang.pdf#page=1.38) [VLDB 25]
+12. [A-Tune-Online: Efficient and QoS-aware Online Configuration Tuning for Dynamic Workloads]() [ICDE 25]
 
 ### Survey
 1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
