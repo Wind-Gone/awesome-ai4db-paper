@@ -151,6 +151,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
+2. [ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://dl.acm.org/doi/pdf/10.14778/3626292.3626302) [VLDB 23] [![](https://img.shields.io/github/stars/pfl-cs/ALECE?style=social&label=Code+Stars)](https://github.com/pfl-cs/ALECE)
 
 #### Pretrain
 1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://www.vldb.org/pvldb/vol18/p637-zhu.pdf) [VLDB 25]
