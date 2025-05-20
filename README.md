@@ -111,17 +111,18 @@ Thanks to all authors of the paper/repository I cite :D
 
 ##### Multi-Tables
 
-1. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [CIDR 2019]
-2. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
-3. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]
-4. [Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts](https://yao.lu/warper.pdf) [SIGMOD 22]
-5. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www4.comp.polyu.edu.hk/~csmlyiu/conf/SIGMOD23_LPCE.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)
-6. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]
-7. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]
-8. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]
-9. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]
-10. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]
-11. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]
+1. [Towards a Learning Optimizer for Shared Clouds](https://www.vldb.org/pvldb/vol12/p210-wu.pdf) [VLDB 18]
+2. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [CIDR 2019]
+3. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
+4. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]  
+5. [Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts](https://yao.lu/warper.pdf) [SIGMOD 22]  
+6. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www4.comp.polyu.edu.hk/~csmlyiu/conf/SIGMOD23_LPCE.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)  
+7. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]  
+8. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]  
+9. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]  
+10. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]  
+11. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]  
+12. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]  
 
 #### Data-Driven
 
