@@ -116,13 +116,15 @@ Thanks to all authors of the paper/repository I cite :D
 3. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
 4. [Flow-Loss: Learning Cardinality Estimates That Matter](https://people.csail.mit.edu/tatbul/publications/flowloss_vldb21.pdf) [VLDB 21]  
 5. [Warper: Efficiently Adapting Learned Cardinality Estimators to Data and Workload Drifts](https://yao.lu/warper.pdf) [SIGMOD 22]  
-6. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www4.comp.polyu.edu.hk/~csmlyiu/conf/SIGMOD23_LPCE.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)  
-7. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]  
-8. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]  
-9. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]  
-10. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]  
-11. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [SIGMOD 24]  
-12. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24]  
+6. [Selectivity Functions of Range Queries are Learnable](https://dl.acm.org/doi/pdf/10.1145/3514221.3517896)[SIGMOD 22] [![](https://img.shields.io/github/stars/huxiao2010/Selectivity?style=social&label=Code+Stars)](https://github.com/huxiao2010/Selectivity)
+7. [Speeding Up End-to-end Query Execution via Learning-based Progressive Cardinality Estimation](https://www4.comp.polyu.edu.hk/~csmlyiu/conf/SIGMOD23_LPCE.pdf) [SIGMOD 23] [![](https://img.shields.io/github/stars/Eilowangfang/LPCE?style=social&label=Code+Stars)](https://github.com/Eilowangfang/LPCE)  
+8. [Robust Query Driven Cardinality Estimation under Changing Workloads](https://www.vldb.org/pvldb/vol16/p1520-negi.pdf)[[VLDB 23](https://github.com/learnedsystems/CEB)]  
+9. [Enhanced Featurization of Queries with Mixed Combinations of Predicates for ML-based Cardinality Estimation](https://openproceedings.org/2023/conf/edbt/paper-1.pdf) [EDBT 23]  
+10. [AutoCE: An Accurate and Efficient Model Advisor for Learned Cardinality Estimation](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/AutoCE_camera_ready_ICDE2023.pdf) [ICDE 23]  
+11. [Asm: Harmonizing autoregressive model, sampling, and multi-dimensional statistics merging for cardinality estimation](https://dl.acm.org/doi/pdf/10.1145/3639300) [SIGMOD 24]  
+12. [Adding Domain Knowledge to Query-Driven Learned Databases](https://arxiv.org/pdf/2312.01025) [arXiv 24]  
+13. [Sample-Efficient Cardinality Estimation Using Geometric Deep Learning](https://dl.acm.org/doi/10.14778/3636218.3636229) [VLDB 24] 
+14.  [A Practical Theory of Generalization in Selectivity Learning](https://arxiv.org/pdf/2409.07014) [VLDB 25]
 
 #### Data-Driven
 
@@ -153,6 +155,7 @@ Thanks to all authors of the paper/repository I cite :D
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
 2. [ALECE: An Attention-based Learned Cardinality Estimator for SPJ Queries on Dynamic Workloads](https://dl.acm.org/doi/pdf/10.14778/3626292.3626302) [VLDB 23] [![](https://img.shields.io/github/stars/pfl-cs/ALECE?style=social&label=Code+Stars)](https://github.com/pfl-cs/ALECE)
+3. [A Unified Model for Cardinality Estimation by Learning from Data and Queries via Sum-Product Networks](https://arxiv.org/pdf/2505.08318) [arXiv 25]  [![](https://img.shields.io/github/stars/rucjrliu/QSPN_code?style=social&label=Code+Stars)](https://github.com/rucjrliu/QSPN_code) 
 
 #### Pretrain
 1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://www.vldb.org/pvldb/vol18/p637-zhu.pdf) [VLDB 25]
