@@ -283,6 +283,7 @@ Thanks to all authors of the paper/repository I cite :D
 29. [Wii: Dynamic Budget Reallocation In Index Tuning](https://dl.acm.org/doi/10.1145/3654985) [SIGMOD 24]
 30. [Wred: Workload Reduction for Scalable Index Tuning](https://dl.acm.org/doi/10.1145/3639305) [SIGMOD 24]
 31. [ML-Powered Index Tuning: An Overview of Recent Progress and Open Challenges](https://dl.acm.org/doi/10.1145/3641832.3641836) [SIGMOD 24]
+32. [Esc: An Early-Stopping Checker for Budget-aware Index Tuning](https://www.vldb.org/pvldb/vol18/p1278-wu.pdf) [VLDB 25]
 
 ## Database Self-Tuning
 
