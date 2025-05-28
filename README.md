@@ -139,7 +139,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 1. [DeepDB: Learn from Data, not from Queries!](https://dl.acm.org/doi/pdf/10.14778/3384345.3384349) [VLDB 20] [![](https://img.shields.io/github/stars/DataManagementLab/deepdb-public?style=social&label=Code+Stars)](https://github.com/DataManagementLab/deepdb-public) 
 2. [NeuroCard: One Cardinality Estimator for All Tables](https://vldb.org/VLDB/vol14/p61-yang.pdf) [VLDB 21]  [![](https://img.shields.io/github/stars/neurocard/neurocard?style=social&label=Code+Stars)](https://github.com/neurocard/neurocard) 
-3. [FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation](http://www.vldb.org/VLDB/vol14/p1489-zhu.pdf) [VLDB 21]
+3. [FLAT: Fast, Lightweight and Accurate Method for Cardinality Estimation](https://www.vldb.org/pvldb/vol14/p1489-zhu.pdf) [VLDB 21]
 4. [BayesCard: Revitilizing Bayesian Frameworks for Cardinality Estimation](https://arxiv.org/pdf/2012.14743.pdf) [aiXiv 21] [![](https://img.shields.io/github/stars/wuziniu/BayesCard?style=social&label=Code+Stars)](https://github.com/wuziniu/BayesCard) 
 5. [Glue: Adaptively Merging Single Table Cardinality to Estimate Join Query Size](https://arxiv.org/pdf/2112.03458.pdf)  [aiXiv 21]
 6. [Fauce: fast and accurate deep ensembles with uncertainty for cardinality estimation](http://vldb.org/pvldb/vol14/p1950-liu.pdf) [VLDB 21]
