@@ -79,6 +79,7 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Towards Exploratory Query Optimization for Template-based SQL Workloads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597755) [ICDE 24]
 13. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://github.com/songsong945/RankPQO/blob/main/RankPQO_Technical_Report.pdf) [VLDB 25]
 14. [LEAP: A Low-cost Spark SQL Query Optimizer using Pairwise Comparison](https://www.vldb.org/pvldb/vol18/p675-chen.pdf) [VLDB 25]
+15. [Athena: An Effective Learning-based Framework for Query Optimizer Performance Improvement](https://dl.acm.org/doi/abs/10.1145/3725395) [SIGMOD 25]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -91,11 +92,11 @@ Thanks to all authors of the paper/repository I cite :D
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
 2. [NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling](https://arxiv.org/pdf/2503.13822) [arXiv 25]
+3. [Learned Query Optimizer: What is New and What is Next](https://bolinding.github.io/papers/sigmod24learnedqo.pdf) [SIGMOD 24]
 
 ### Cardinality Estimation
 
 #### Survey
-
 1. [Cardinality Estimation: An Experimental Survey](https://www.vldb.org/VLDB/vol11/p499-harmouch.pdf) [VLDB 17]
 2. [Are We Ready For Learned Cardinality Estimation?](https://arxiv.org/pdf/2012.06743.pdf) [VLDB 21]
 3. [Cardinality Estimation in DBMS: A Comprehensive Benchmark Evaluation](https://kai-zeng.github.io/papers/benchmark_vldb_2021.pdf) [VLDB 21]
@@ -105,12 +106,10 @@ Thanks to all authors of the paper/repository I cite :D
 #### Query-Driven
 
 ##### Single-Table
-
 1. [Selectivity estimation for range predicates using lightweight models](http://www.vldb.org/pvldb/vol12/p1044-dutt.pdf) [VLDB 19]
 2. [Deep learning models for selectivity estimation of multiattribute queries](https://dl.acm.org/doi/abs/10.1145/3318464.3389741) [SIGMOD 20]
 
 ##### Multi-Tables
-
 1. [Towards a Learning Optimizer for Shared Clouds](https://www.vldb.org/pvldb/vol12/p210-wu.pdf) [VLDB 18]
 2. [Learned Cardinalities: Estimating Correlated Joins with Deep Learning](https://arxiv.org/pdf/1809.00677.pdf) [CIDR 2019]
 3. [An End-to-End Learning-based Cost Estimator](http://www.vldb.org/VLDB/vol13/p307-sun.pdf) [VLDB 19] [![](https://img.shields.io/github/stars/greatji/Learning-based-cost-estimator?style=social&label=Code+Stars)](https://github.com/greatji/Learning-based-cost-estimator)
@@ -151,6 +150,7 @@ Thanks to all authors of the paper/repository I cite :D
 12. [Cardinality Estimation of LIKE Predicate Queries using Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3709670) [SIGMOD 25]
 13. [Grid-AR: A Grid–based Booster for Learned Cardinality Estimation and Range Joins](https://arxiv.org/pdf/2410.07895) [arXiv 25]
 14. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
+15. [SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning](https://dl.acm.org/doi/pdf/10.1145/3725355) [SIGMOD 25]
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
@@ -209,7 +209,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [MemQ: A Graph-Based Query Memory Prediction Framework for Effective Workload Scheduling]() [ICDE 25]
 2. [Towards Automatic and Efficient Prediction Query Processing in Analytical Database]() [ICDE 25]
 3. [LORE: Learning-based Resource Recommendation for Big Data Queries]() [ICDE 25]
-4. [BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning]() [ICDE 25]
+4. [BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning](https://arxiv.org/pdf/2504.19142) [ICDE 25]
 
 ### Storage
 1. [Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine](https://stratos.seas.harvard.edu/files/stratos/files/2022pvldb_cosine.pdf) [VLDB 22]
@@ -313,6 +313,8 @@ Thanks to all authors of the paper/repository I cite :D
 1. [D-Bot: Database Diagnosis System using Large Language Models](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/dbot_vldb_camera_ready_v1.pdf) [VLDB 24]
 2. [Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG](https://arxiv.org/pdf/2406.11147) [arXiv 25]
 3. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://dl.acm.org/doi/pdf/10.1145/3709663) [SIGMOD 25]
+4. [Andromeda: Debugging Database Performance Issues with Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3722212.3725080) [SIGMOD Demo 25]
+5. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
 
 ## LLM
 1. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
