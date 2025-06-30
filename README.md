@@ -58,8 +58,9 @@ Thanks to all authors of the paper/repository I cite :D
       - [Multi-dimensional](#multi-dimensional)
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
     - [Index Advisor](#index-advisor)
-  - [Database Self-Tuning](#database-self-tuning)
     - [Survey](#survey-4)
+  - [Database Self-Tuning](#database-self-tuning)
+    - [Survey](#survey-5)
   - [Database System Safety](#database-system-safety)
   - [LLM](#llm)
 
@@ -151,6 +152,7 @@ Thanks to all authors of the paper/repository I cite :D
 13. [Grid-AR: A Grid–based Booster for Learned Cardinality Estimation and Range Joins](https://arxiv.org/pdf/2410.07895) [arXiv 25]
 14. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
 15. [SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning](https://dl.acm.org/doi/pdf/10.1145/3725355) [SIGMOD 25]
+16. [Data-Agnostic Cardinality Learning from Imperfect Workloads](https://www.arxiv.org/pdf/2506.16007#page=10.34) [VLDB 25]
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
@@ -159,6 +161,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Pretrain
 1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://www.vldb.org/pvldb/vol18/p637-zhu.pdf) [VLDB 25]
+2. [PLM4NDV：Minimizing Data Access for Number of Distinct Values Estimation with Pre-trained Language Models](https://arxiv.org/pdf/2504.00608) [SIGMOD 25]
 
 ### Plan Hints
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
@@ -202,6 +205,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### Text2SQL
 1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
 2. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL]() [SIGMOD Demo 25]
+3. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
 
 ## Database Traditional Technology
 
@@ -290,8 +294,10 @@ Thanks to all authors of the paper/repository I cite :D
 31. [ML-Powered Index Tuning: An Overview of Recent Progress and Open Challenges](https://dl.acm.org/doi/10.1145/3641832.3641836) [SIGMOD 24]
 32. [Esc: An Early-Stopping Checker for Budget-aware Index Tuning](https://www.vldb.org/pvldb/vol18/p1278-wu.pdf) [VLDB 25]
 
-## Database Self-Tuning
+### Survey
+1. [Breaking It Down: An In-depth Study of Index Advisors](https://www.vldb.org/pvldb/vol17/p2405-li.pdf#page=8.83) [VLDB 24]
 
+## Database Self-Tuning
 1. [Automatic Database Management System Tuning Through Large-scale Machine Learning](https://www.cs.cmu.edu/~ggordon/van-aken-etal-parameters.pdf) [SIGMOD 17]
 2. [Deploying a Steered Query Optimizer in Production at Microsof](https://arxiv.org/pdf/2210.13625.pdf) [SIGMOD 22]
 3. [Detect, Distill and Update: Learned DB Systems Facing Out of Distribution Data](https://arxiv.org/pdf/2210.05508.pdf) [SIGMOD 23]
@@ -327,6 +333,7 @@ Thanks to all authors of the paper/repository I cite :D
 8. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) [arXiv 25]
 9. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
 10. [Data+AI: LLM4Data and Data4LLM]() [SIGMOD 25 Tutorial]
+11. [A Survey of LLM × DATA](https://arxiv.org/pdf/2505.18458) [arXiv 25]
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
