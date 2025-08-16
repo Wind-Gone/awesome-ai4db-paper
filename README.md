@@ -12,7 +12,7 @@ A curated paper list of awesome AI4DB <b> theory, frameworks, resources, tools</
 
 ## Contributing
 
-The repository is under construction.  Welcome new PR, please conform to the committed rules: 
+The repository is under construction. Welcome new PR, please conform to the committed rules: 
 
 ```bash
 paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
@@ -153,6 +153,7 @@ Thanks to all authors of the paper/repository I cite :D
 14. [Updateable Data-Driven Cardinality Estimator with Bounded Q-error](https://arxiv.org/pdf/2408.17209) [arXiv 25]
 15. [SPACE: Cardinality Estimation for Path Queries Using Cardinality-Aware Sequence-based Learning](https://dl.acm.org/doi/pdf/10.1145/3725355) [SIGMOD 25]
 16. [Data-Agnostic Cardinality Learning from Imperfect Workloads](https://www.arxiv.org/pdf/2506.16007#page=10.34) [VLDB 25]
+17. [A Lightweight Learned Cardinality Estimation Model](https://ieeexplore.ieee.org/abstract/document/11086506) [TKDE 25]
 
 #### Hybrid
 1. [A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation](https://arxiv.org/pdf/2107.12295.pdf) [SIGMOD 21]  [![](https://img.shields.io/github/stars/pagegitss/UAE?style=social&label=Code+Stars)](https://github.com/pagegitss/UAE) 
@@ -203,9 +204,10 @@ Thanks to all authors of the paper/repository I cite :D
 3. [PilotScope: Steering Databases with Machine Learning Drivers](https://dl.acm.org/doi/pdf/10.14778/3641204.3641209) [VLDB 24]
 
 ### Text2SQL
-1. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
-2. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL]() [SIGMOD Demo 25]
-3. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
+1. [Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://www.semanticscholar.org/reader/e034b664362640cc88dfa5e2e11c0524fc7cb323) [VLDB 23]
+2. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
+3. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL]() [SIGMOD Demo 25]
+4. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
 
 ## Database Traditional Technology
 
