@@ -81,6 +81,7 @@ Thanks to all authors of the paper/repository I cite :D
 13. [RankPQO: Learning-to-Rank for Parametric Query Optimization](https://github.com/songsong945/RankPQO/blob/main/RankPQO_Technical_Report.pdf) [VLDB 25]
 14. [LEAP: A Low-cost Spark SQL Query Optimizer using Pairwise Comparison](https://www.vldb.org/pvldb/vol18/p675-chen.pdf) [VLDB 25]
 15. [Athena: An Effective Learning-based Framework for Query Optimizer Performance Improvement](https://dl.acm.org/doi/abs/10.1145/3725395) [SIGMOD 25]
+16. [PAR2QO: Parametric Penalty-Aware Robust Query Optimization](https://www.vldb.org/pvldb/vol18/p4532-xiu.pdf) [VLDB 25]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -89,6 +90,7 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Hit the Gym: Accelerating Query Execution to Efficiently Bootstrap Behavior Models for Self-Driving Database Management Systems](https://www.vldb.org/pvldb/vol17/p3680-lim.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/lmwnshn/boot?style=social&label=Code+Stars)](https://github.com/lmwnshn/boot) 
 5. [Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation]() [ICDE Demo 25]
 6. [Towards a Unified Query Plan Representation]() [ICDE 25]
+7. [SQLStorm: Taking Database Benchmarking into the LLM Era](https://www.vldb.org/pvldb/vol18/p4144-schmidt.pdf) [VLDB 25]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
