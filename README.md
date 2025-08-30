@@ -91,6 +91,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation]() [ICDE Demo 25]
 6. [Towards a Unified Query Plan Representation]() [ICDE 25]
 7. [SQLStorm: Taking Database Benchmarking into the LLM Era](https://www.vldb.org/pvldb/vol18/p4144-schmidt.pdf) [VLDB 25]
+8. [The Accuracy of Cardinality Estimators: Unraveling the Evaluation Result Conundrum](https://www.vldb.org/pvldb/vol18/p3744-rashedi.pdf) [VLDB 25]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
