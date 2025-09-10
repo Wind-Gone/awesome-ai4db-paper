@@ -183,6 +183,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Survey
 1. [How Good are Learned Cost Models, Really? Insights from Query Optimization Tasks](https://arxiv.org/pdf/2502.01229) [SIGMOD 25]
+2. [Learned Cost Models for Query Optimization: From Batch to Streaming Systems](https://www.vldb.org/pvldb/vol18/p5482-li.pdf) [VLDB 25 Tutorial]
 
 ### SQL Embedding
 
