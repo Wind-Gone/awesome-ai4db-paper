@@ -166,6 +166,7 @@ Thanks to all authors of the paper/repository I cite :D
 #### Pretrain
 1. [PRICE: A Pretrained Model for Cross-Database Cardinality Estimation](https://www.vldb.org/pvldb/vol18/p637-zhu.pdf) [VLDB 25]
 2. [PLM4NDV：Minimizing Data Access for Number of Distinct Values Estimation with Pre-trained Language Models](https://arxiv.org/pdf/2504.00608) [SIGMOD 25]
+3. [ZeroCard: Cardinality Estimation with Zero Dependence onTarget Databases-No Data, No Query, No Retraining](https://arxiv.org/pdf/2510.07983) [arXiv 25]
 
 ### Plan Hints
 1. [Bao: Making Learned Query Optimization Practical](https://dl.acm.org/doi/pdf/10.1145/3448016.3452838) [SIMOD 21]
