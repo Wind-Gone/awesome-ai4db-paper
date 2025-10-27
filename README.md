@@ -210,8 +210,9 @@ Thanks to all authors of the paper/repository I cite :D
 ### Text2SQL
 1. [Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation](https://www.semanticscholar.org/reader/e034b664362640cc88dfa5e2e11c0524fc7cb323) [VLDB 23]
 2. [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://www.vldb.org/pvldb/vol17/p3318-luo.pdf) [VLDB 24]
-3. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL]() [SIGMOD Demo 25]
+3. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
 4. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
+5. [Natural language to sql: State of the art and open problems](https://www.vldb.org/pvldb/vol18/p5466-luo.pdf) [VLDB 25]
 
 ## Database Traditional Technology
 
