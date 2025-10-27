@@ -214,6 +214,9 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
 5. [Natural language to sql: State of the art and open problems](https://www.vldb.org/pvldb/vol18/p5466-luo.pdf) [VLDB 25]
 
+#### Survey
+1. [A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?](https://ieeexplore.ieee.org/abstract/document/11095853/) [TKDE 25]
+
 ## Database Traditional Technology
 
 ### Query Processing
