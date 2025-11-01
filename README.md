@@ -49,18 +49,19 @@ Thanks to all authors of the paper/repository I cite :D
     - [Query Rewrite](#query-rewrite)
     - [End-to-end System](#end-to-end-system)
     - [Text2SQL](#text2sql)
+      - [Survey](#survey-3)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Query Processing](#query-processing)
     - [Storage](#storage)
     - [Learning-based Index Design](#learning-based-index-design)
-      - [Survey](#survey-3)
+      - [Survey](#survey-4)
       - [Single-dimensional](#single-dimensional)
       - [Multi-dimensional](#multi-dimensional)
   - [Learning-based Configuration Advisor](#learning-based-configuration-advisor)
     - [Index Advisor](#index-advisor)
-    - [Survey](#survey-4)
-  - [Database Self-Tuning](#database-self-tuning)
     - [Survey](#survey-5)
+  - [Database Self-Tuning](#database-self-tuning)
+    - [Survey](#survey-6)
   - [Database System Safety](#database-system-safety)
   - [LLM](#llm)
 
@@ -88,8 +89,8 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Expand your training limits! generating training data for ml-based data management](https://itu.dk/~joqu/assets/publications/sigmod21c.pdf) [VLDB 21]
 3. [LearnedSQLGen: Constraint-aware SQL Generation using Reinforcement Learning](https://dbgroup.cs.tsinghua.edu.cn/ligl/papers/sigmod2022-sqlgen.pdf) [SIGMOD 22]
 4. [Hit the Gym: Accelerating Query Execution to Efficiently Bootstrap Behavior Models for Self-Driving Database Management Systems](https://www.vldb.org/pvldb/vol17/p3680-lim.pdf) [VLDB 24] [![](https://img.shields.io/github/stars/lmwnshn/boot?style=social&label=Code+Stars)](https://github.com/lmwnshn/boot) 
-5. [Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation]() [ICDE Demo 25]
-6. [Towards a Unified Query Plan Representation]() [ICDE 25]
+5. [Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation](https://ieeexplore.ieee.org/iel8/11112833/11112834/11113146.pdf) [ICDE Demo 25]
+6. [Towards a Unified Query Plan Representation](https://arxiv.org/pdf/2408.07857) [ICDE 25]
 7. [SQLStorm: Taking Database Benchmarking into the LLM Era](https://www.vldb.org/pvldb/vol18/p4144-schmidt.pdf) [VLDB 25]
 8. [The Accuracy of Cardinality Estimators: Unraveling the Evaluation Result Conundrum](https://www.vldb.org/pvldb/vol18/p3744-rashedi.pdf) [VLDB 25]
 
@@ -217,13 +218,14 @@ Thanks to all authors of the paper/repository I cite :D
 
 #### Survey
 1. [A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?](https://ieeexplore.ieee.org/abstract/document/11095853/) [TKDE 25]
+2. [Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration](https://arxiv.org/pdf/2510.26495) [arXiv 25]
 
 ## Database Traditional Technology
 
 ### Query Processing
-1. [MemQ: A Graph-Based Query Memory Prediction Framework for Effective Workload Scheduling]() [ICDE 25]
-2. [Towards Automatic and Efficient Prediction Query Processing in Analytical Database]() [ICDE 25]
-3. [LORE: Learning-based Resource Recommendation for Big Data Queries]() [ICDE 25]
+1. [MemQ: A Graph-Based Query Memory Prediction Framework for Effective Workload Scheduling](https://ieeexplore.ieee.org/document/11113017/) [ICDE 25]
+2. [Towards Automatic and Efficient Prediction Query Processing in Analytical Database](https://ieeexplore.ieee.org/document/11112837/) [ICDE 25]
+3. [LORE: Learning-based Resource Recommendation for Big Data Queries](https://ieeexplore.ieee.org/document/11113098/) [ICDE 25]
 4. [BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning](https://arxiv.org/pdf/2504.19142) [ICDE 25]
 
 ### Storage
@@ -231,8 +233,8 @@ Thanks to all authors of the paper/repository I cite :D
 2. [TreeLine: An Update-In-Place Key-Value Store for Modern Storage](https://par.nsf.gov/servlets/purl/10413747) [VLDB 22] [![](https://img.shields.io/github/stars/mitdbg/treeline?style=social&label=Code+Stars)](https://github.com/mitdbg/treeline) 
 3. [Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads](https://dl.acm.org/doi/pdf/10.1145/3617333) [SIGMOD 23]
 4. [Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines](https://chatterjeesubarna.github.io/files/Limousine.pdf) [SIGMOD 24]
-5. [CAMAL: Optimizing LSM-trees via Active Learning]() [SIGMOD 25]
-6. [NEXT: A New Secondary Index Framework for LSM-based Data Storage]() [SIGMOD 25]
+5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
+6. [NEXT: A New Secondary Index Framework for LSM-based Data Storage](https://dl.acm.org/doi/10.1145/3725330) [SIGMOD 25]
 
 ### Learning-based Index Design
 
