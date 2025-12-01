@@ -22,7 +22,6 @@ Thanks to all authors of the paper/repository I cite :D
 
 
 ## Table of Content
-
 - [AI4DB Paper Sets ](#ai4db-paper-sets-)
   - [Introduction](#introduction)
   - [Contributing](#contributing)
@@ -273,7 +272,6 @@ Thanks to all authors of the paper/repository I cite :D
 8. [A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach]() [SIGMOD 25]
 
 ## Learning-based Configuration Advisor
-
 ### Index Advisor
 1. [The Case for Automatic Database Administration using Deep Reinforcement Learning](https://arxiv.org/abs/1801.05643) [arXiv 18]
 2. [AI Meets AI: Leveraging Query Executions to Improve Index Recommendations](https://pages.cs.wisc.edu/~wentaowu/papers/sigmod19-auto-indexing.pdf) [SIGMOD 19]
@@ -306,6 +304,7 @@ Thanks to all authors of the paper/repository I cite :D
 30. [Wred: Workload Reduction for Scalable Index Tuning](https://dl.acm.org/doi/10.1145/3639305) [SIGMOD 24]
 31. [ML-Powered Index Tuning: An Overview of Recent Progress and Open Challenges](https://dl.acm.org/doi/10.1145/3641832.3641836) [SIGMOD 24]
 32. [Esc: An Early-Stopping Checker for Budget-aware Index Tuning](https://www.vldb.org/pvldb/vol18/p1278-wu.pdf) [VLDB 25]
+33. [HIRE: A Hybrid Learned Index for Robust and Efficient Performance under Mixed Workloads](https://arxiv.org/pdf/2511.21307) [SIGMOD 26]
 
 ### Survey
 1. [Breaking It Down: An In-depth Study of Index Advisors](https://www.vldb.org/pvldb/vol17/p2405-li.pdf#page=8.83) [VLDB 24]
