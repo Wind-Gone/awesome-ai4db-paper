@@ -49,6 +49,7 @@ Thanks to all authors of the paper/repository I cite :D
     - [End-to-end System](#end-to-end-system)
     - [Text2SQL](#text2sql)
       - [Survey](#survey-3)
+      - [Safety](#safety)
   - [Database Traditional Technology](#database-traditional-technology)
     - [Query Processing](#query-processing)
     - [Storage](#storage)
@@ -219,6 +220,9 @@ Thanks to all authors of the paper/repository I cite :D
 1. [A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?](https://ieeexplore.ieee.org/abstract/document/11095853/) [TKDE 25]
 2. [Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration](https://arxiv.org/pdf/2510.26495) [arXiv 25]
 
+#### Safety
+1. [Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](https://arxiv.org/pdf/2503.05445) [SIGMOD 26]
+
 ## Database Traditional Technology
 
 ### Query Processing
@@ -269,7 +273,7 @@ Thanks to all authors of the paper/repository I cite :D
 5. [Tsunami: A Learned Multi-dimensional Index for Correlated Data and Skewed Workloads](http://vldb.org/VLDB/vol14/p74-ding.pdf) [VLDB 21]
 6. [NEIST: a Neural-Enhanced Index for Spatio-Temporal Queries](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8861025) [TKDE 21]
 7. [RW-Tree: A Learned Workload-aware Framework for R-tree Construction](https://ieeexplore.ieee.org/abstract/document/9835605/) [ICDE 22]
-8. [A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach]() [SIGMOD 25]
+8. [A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning-Enhanced Approach](https://dl.acm.org/doi/10.1145/3725257) [SIGMOD 25]
 
 ## Learning-based Configuration Advisor
 ### Index Advisor
