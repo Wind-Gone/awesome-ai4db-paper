@@ -64,6 +64,8 @@ Thanks to all authors of the paper/repository I cite :D
     - [Survey](#survey-6)
   - [Database System Safety](#database-system-safety)
   - [LLM](#llm)
+    - [AI Infra](#ai-infra)
+    - [Data Processing \& Extraction](#data-processing--extraction)
 
 
 ## Learning-based Query Optimization
@@ -83,6 +85,8 @@ Thanks to all authors of the paper/repository I cite :D
 14. [LEAP: A Low-cost Spark SQL Query Optimizer using Pairwise Comparison](https://www.vldb.org/pvldb/vol18/p675-chen.pdf) [VLDB 25]
 15. [Athena: An Effective Learning-based Framework for Query Optimizer Performance Improvement](https://dl.acm.org/doi/abs/10.1145/3725395) [SIGMOD 25]
 16. [PAR2QO: Parametric Penalty-Aware Robust Query Optimization](https://www.vldb.org/pvldb/vol18/p4532-xiu.pdf) [VLDB 25]
+17. [SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer]() [SIGMOD 26]
+18. [NeurStore: Efficient In-database Deep Learning Model Management System]() [SIGMOD 26]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -98,6 +102,8 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
 2. [NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling](https://arxiv.org/pdf/2503.13822) [arXiv 25]
 3. [Learned Query Optimizer: What is New and What is Next](https://bolinding.github.io/papers/sigmod24learnedqo.pdf) [SIGMOD 24]
+4. [Are Learned DBMS Components Robust to Workload Drift]() [SIGMOD 26]
+5. [Can Large Language Models Be Query Optimizer for Relational Databases?]() [SIGMOD 26]
 
 ### Cardinality Estimation
 
@@ -113,6 +119,7 @@ Thanks to all authors of the paper/repository I cite :D
 ##### Single-Table
 1. [Selectivity estimation for range predicates using lightweight models](http://www.vldb.org/pvldb/vol12/p1044-dutt.pdf) [VLDB 19]
 2. [Deep learning models for selectivity estimation of multiattribute queries](https://dl.acm.org/doi/abs/10.1145/3318464.3389741) [SIGMOD 20]
+3. [CUBE: A Cardinality Estimator Based on Neural CDF](https://arxiv.org/pdf/2512.09622) [arXiv 26]
 
 ##### Multi-Tables
 1. [Towards a Learning Optimizer for Shared Clouds](https://www.vldb.org/pvldb/vol12/p210-wu.pdf) [VLDB 18]
@@ -203,6 +210,7 @@ Thanks to all authors of the paper/repository I cite :D
 
 1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/zhouxh19/LearnedRewrite?style=social&label=Code+Stars)](https://github.com/zhouxh19/LearnedRewrite) 
 2. [LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://www.vldb.org/pvldb/vol18/p53-yuan.pdf) [VLDB 25]
+3. [Leveraging Query Optimizers to Verify the Soundness of LLM-based Query Rewrites for Real-World Workloads, and More!](https://www.vldb.org/cidrdb/papers/2026/p33-narasayya.pdf) [CIDR 26]
 
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
@@ -215,6 +223,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
 4. [Cracking SQL Barriers: An LLM-based Dialect Translation System](https://dl.acm.org/doi/pdf/10.1145/3725278) [SIGMOD 25]
 5. [Natural language to sql: State of the art and open problems](https://www.vldb.org/pvldb/vol18/p5466-luo.pdf) [VLDB 25]
+6. [Reliable Answers for Recurring Questions: Boosting Text-to-SQL Accuracy with Template Constrained Decoding]() [SIGMOD 26]
 
 #### Survey
 1. [A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?](https://ieeexplore.ieee.org/abstract/document/11095853/) [TKDE 25]
@@ -238,11 +247,13 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Limousine: Blending Learned and Classical Indexes to Self-Design Larger-than-Memory Cloud Storage Engines](https://chatterjeesubarna.github.io/files/Limousine.pdf) [SIGMOD 24]
 5. [CAMAL: Optimizing LSM-trees via Active Learning](https://arxiv.org/pdf/2409.15130) [SIGMOD 25]
 6. [NEXT: A New Secondary Index Framework for LSM-based Data Storage](https://dl.acm.org/doi/10.1145/3725330) [SIGMOD 25]
+7. [Marlin: Efficient Coordination for Autoscaling Cloud DBMS]() [SIGMOD 26]
 
 ### Learning-based Index Design
 
 #### Survey
 1. [Can Learned Indexes be Built Efficiently? A Deep Dive into Sampling Trade-offs](https://dl.acm.org/doi/pdf/10.1145/3654919) [SIGMOD 24]
+2. [Understanding Robustness Issues of Updatable Learned Indexes: [Experiments & Analysis]]() [SIGMOD 26]
 
 #### Single-dimensional
 
@@ -326,6 +337,7 @@ Thanks to all authors of the paper/repository I cite :D
 10. [Autotuning Systems: Techniques, Challenges, and Opportunities]() [SIGMOD 25 Tutorial]
 11. [E2ETune: End-to-End Knob Tuning via Fine-tuned Generative Language Model](https://www.vldb.org/pvldb/vol18/p1466-huang.pdf#page=1.38) [VLDB 25]
 12. [A-Tune-Online: Efficient and QoS-aware Online Configuration Tuning for Dynamic Workloads]() [ICDE 25]
+13. [AgentTune: An Agent-Based Large Language Model Framework for Database Knob Tuning]() [SIGMOD 26]
 
 ### Survey
 1. [Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation](https://arxiv.org/pdf/2408.02213) [arXiv 24]
@@ -337,6 +349,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Automatic Database Configuration Debugging using Retrieval-Augmented Language Models](https://dl.acm.org/doi/pdf/10.1145/3709663) [SIGMOD 25]
 4. [Andromeda: Debugging Database Performance Issues with Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3722212.3725080) [SIGMOD Demo 25]
 5. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
+6. [Learned Root-Cause SQL Prioritization and Diagnosis for Complex Database Performance Issues]() [SIGMOD 26]
 
 ## LLM
 1. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
@@ -350,6 +363,16 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
 10. [Data+AI: LLM4Data and Data4LLM]() [SIGMOD 25 Tutorial]
 11. [A Survey of LLM × DATA](https://arxiv.org/pdf/2505.18458) [arXiv 25]
+  
+
+### AI Infra
+1. [HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems]() [SIGMOD 26]
+2. [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference]() [SIGMOD 26]
+
+### Data Processing & Extraction
+1. [ST-Raptor: LLM-Powered Semi-Structured Table Question Answering]() [SIGMOD 26]
+2. [Visual Template Inference for Data Extraction from Documents]() [SIGMOD 26]
+3. ["Cut Costs, Not Accuracy: LLM-Powered Data Processing with Guarantees"]() [SIGMOD 26]
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
