@@ -87,6 +87,7 @@ Thanks to all authors of the paper/repository I cite :D
 16. [PAR2QO: Parametric Penalty-Aware Robust Query Optimization](https://www.vldb.org/pvldb/vol18/p4532-xiu.pdf) [VLDB 25]
 17. [SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer]() [SIGMOD 26]
 18. [NeurStore: Efficient In-database Deep Learning Model Management System]() [SIGMOD 26]
+19. [Lamba: A pretrained model for latency prediction over distributed databases](https://link.springer.com/article/10.1007/s00778-026-00970-y) [VLDBJ 26]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -97,6 +98,7 @@ Thanks to all authors of the paper/repository I cite :D
 6. [Towards a Unified Query Plan Representation](https://arxiv.org/pdf/2408.07857) [ICDE 25]
 7. [SQLStorm: Taking Database Benchmarking into the LLM Era](https://www.vldb.org/pvldb/vol18/p4144-schmidt.pdf) [VLDB 25]
 8. [The Accuracy of Cardinality Estimators: Unraveling the Evaluation Result Conundrum](https://www.vldb.org/pvldb/vol18/p3744-rashedi.pdf) [VLDB 25]
+9. [Generating adversarial SQL queries for evaluating cardinality estimators](https://link.springer.com/article/10.1007/s00778-026-00967-7) [VLDBJ 26]
 
 ### Survey
 1. [Machine Unlearning in Learned Databases: An Experimental Analysis](https://arxiv.org/pdf/2311.17276) [SIGMOD 24]
@@ -104,6 +106,7 @@ Thanks to all authors of the paper/repository I cite :D
 3. [Learned Query Optimizer: What is New and What is Next](https://bolinding.github.io/papers/sigmod24learnedqo.pdf) [SIGMOD 24]
 4. [Are Learned DBMS Components Robust to Workload Drift]() [SIGMOD 26]
 5. [Can Large Language Models Be Query Optimizer for Relational Databases?]() [SIGMOD 26]
+6. [What Drives Learned Optimizer Performance? A Systematic Evaluation](https://openproceedings.org/2026/conf/edbt/paper-221.pdf) [EDBT 26]
 
 ### Cardinality Estimation
 
@@ -211,6 +214,7 @@ Thanks to all authors of the paper/repository I cite :D
 1. [A Learned Query Rewrite System using Monte Carlo Tree Search](http://dbgroup.cs.tsinghua.edu.cn/ligl/papers/vldb22-query-rewrite.pdf) [VLDB 22] [![](https://img.shields.io/github/stars/zhouxh19/LearnedRewrite?style=social&label=Code+Stars)](https://github.com/zhouxh19/LearnedRewrite) 
 2. [LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency](https://www.vldb.org/pvldb/vol18/p53-yuan.pdf) [VLDB 25]
 3. [Leveraging Query Optimizers to Verify the Soundness of LLM-based Query Rewrites for Real-World Workloads, and More!](https://www.vldb.org/cidrdb/papers/2026/p33-narasayya.pdf) [CIDR 26]
+4. [Efficient Query Rewrite Rule Discovery via Standardized Enumeration and Learning-to-Rank](https://arxiv.org/pdf/2603.04169) [arXiv 26]
 
 ### End-to-end System
 1. [Modeling Shifting Workloads for Learned Database Systems](https://dl.acm.org/doi/10.1145/3639293) [SIGMOD 24]
@@ -239,6 +243,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Towards Automatic and Efficient Prediction Query Processing in Analytical Database](https://ieeexplore.ieee.org/document/11112837/) [ICDE 25]
 3. [LORE: Learning-based Resource Recommendation for Big Data Queries](https://ieeexplore.ieee.org/document/11113098/) [ICDE 25]
 4. [BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning](https://arxiv.org/pdf/2504.19142) [ICDE 25]
+5. [Towards Effective Orchestration of AI x DB Workloads](https://arxiv.org/pdf/2603.03772) [arXiv 26]
 
 ### Storage
 1. [Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine](https://stratos.seas.harvard.edu/files/stratos/files/2022pvldb_cosine.pdf) [VLDB 22]
