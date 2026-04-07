@@ -355,6 +355,7 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Andromeda: Debugging Database Performance Issues with Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3722212.3725080) [SIGMOD Demo 25]
 5. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
 6. [Learned Root-Cause SQL Prioritization and Diagnosis for Complex Database Performance Issues]() [SIGMOD 26]
+7. [DBAIOps: DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs](https://arxiv.org/pdf/2508.01136) [VLDB 26]
 
 ## LLM
 1. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
@@ -368,7 +369,6 @@ Thanks to all authors of the paper/repository I cite :D
 9. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
 10. [Data+AI: LLM4Data and Data4LLM](https://dl.acm.org/doi/pdf/10.1145/3722212.3725641) [SIGMOD 25 Tutorial]
 11. [A Survey of LLM × DATA](https://arxiv.org/pdf/2505.18458) [arXiv 25]
-  
 
 ### AI Infra
 1. [HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems](https://dl.acm.org/doi/pdf/10.1145/3749168) [SIGMOD 26]
