@@ -366,18 +366,19 @@ Thanks to all authors of the paper/repository I cite :D
 7. [Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models](https://www.vldb.org/pvldb/vol18/p42-jiang.pdf) [VLDB 25]
 8. [Large Language Model-Based Agents for Software Engineering: A Survey](https://arxiv.org/pdf/2409.02977) [arXiv 25]
 9. [Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation](https://arxiv.org/pdf/2308.01240) [arXiv 25]
-10. [Data+AI: LLM4Data and Data4LLM]() [SIGMOD 25 Tutorial]
+10. [Data+AI: LLM4Data and Data4LLM](https://dl.acm.org/doi/pdf/10.1145/3722212.3725641) [SIGMOD 25 Tutorial]
 11. [A Survey of LLM × DATA](https://arxiv.org/pdf/2505.18458) [arXiv 25]
   
 
 ### AI Infra
-1. [HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems]() [SIGMOD 26]
-2. [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference]() [SIGMOD 26]
+1. [HotPrefix: Hotness-Aware KV Cache Scheduling for Efficient Prefix Sharing in LLM Inference Systems](https://dl.acm.org/doi/pdf/10.1145/3749168) [SIGMOD 26]
+2. [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference](https://dl.acm.org/doi/pdf/10.1145/3769844) [SIGMOD 26]
 
 ### Data Processing & Extraction
-1. [ST-Raptor: LLM-Powered Semi-Structured Table Question Answering]() [SIGMOD 26]
-2. [Visual Template Inference for Data Extraction from Documents]() [SIGMOD 26]
-3. ["Cut Costs, Not Accuracy: LLM-Powered Data Processing with Guarantees"]() [SIGMOD 26]
+1. [ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](https://dl.acm.org/doi/pdf/10.1145/3769829) [SIGMOD 26]
+2. [Visual Template Inference for Data Extraction from Documents](https://dl.acm.org/doi/pdf/10.1145/3769840) [SIGMOD 26]
+3. ["Cut Costs, Not Accuracy: LLM-Powered Data Processing with Guarantees"](https://dl.acm.org/doi/pdf/10.1145/3769776) [SIGMOD 26]
+4. [ThalamusDB: Approximate Query Processing on Multi-Modal Data](https://saehanjo.github.io/assets/files/thalamusdb.pdf#page=1.52) [SIGMOD 26]
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
