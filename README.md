@@ -66,6 +66,7 @@ Thanks to all authors of the paper/repository I cite :D
   - [LLM](#llm)
     - [AI Infra](#ai-infra)
     - [Data Processing \& Extraction](#data-processing--extraction)
+    - [Tuning](#tuning)
 
 
 ## Learning-based Query Optimization
@@ -88,6 +89,9 @@ Thanks to all authors of the paper/repository I cite :D
 17. [SEFRQO: A Self-Evolving Fine-Tuned RAG-Based Query Optimizer]() [SIGMOD 26]
 18. [NeurStore: Efficient In-database Deep Learning Model Management System]() [SIGMOD 26]
 19. [Lamba: A pretrained model for latency prediction over distributed databases](https://link.springer.com/article/10.1007/s00778-026-00970-y) [VLDBJ 26]
+20. [LIO: A lightweight and interpretable query optimizer based on an evolutionary forest](https://www.vldb.org/pvldb/vol19/p1088-ye.pdf) [VLDB 26]
+21. [Practical Parameterized Query Optimization via Efficient Plan Reuse and List-wise Ranking](https://dl.acm.org/doi/pdf/10.1145/3788254) [VLDB 26]
+22. [Divo: Learning a Stable and Effective Query Optimizer with a Diverse Workload](https://dl.acm.org/doi/pdf/10.1145/3786641) [SIGMOD 26]
 
 ### Training Data Set Preparation
 1. [DSB: a decision support benchmark for workload-driven and traditional database systems](https://dl.acm.org/doi/10.14778/3484224.3484234) [VLDB 21]
@@ -232,6 +236,7 @@ Thanks to all authors of the paper/repository I cite :D
 #### Survey
 1. [A Survey of Text-to-SQL in the Era of LLMs: Where are we, and where are we going?](https://ieeexplore.ieee.org/abstract/document/11095853/) [TKDE 25]
 2. [Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration](https://arxiv.org/pdf/2510.26495) [arXiv 25]
+3. [TACO: A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries](https://www.vldb.org/pvldb/vol19/p1386-fan.pdf) [VLDB 26]
 
 #### Safety
 1. [Are Your LLM-based Text-to-SQL Models Secure? Exploring SQL Injection via Backdoor Attacks](https://arxiv.org/pdf/2503.05445) [SIGMOD 26]
@@ -355,7 +360,7 @@ Thanks to all authors of the paper/repository I cite :D
 4. [Andromeda: Debugging Database Performance Issues with Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3722212.3725080) [SIGMOD Demo 25]
 5. [Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads](https://dl.acm.org/doi/pdf/10.1145/3722212.3725101) [SIGMOD Demo 25]
 6. [Learned Root-Cause SQL Prioritization and Diagnosis for Complex Database Performance Issues]() [SIGMOD 26]
-7. [DBAIOps: DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs](https://arxiv.org/pdf/2508.01136) [VLDB 26]
+7. [DBAIOps: DBAIOps: A Reasoning LLM-Enhanced Database Operation and Maintenance System using Knowledge Graphs](https://www.vldb.org/pvldb/vol19/p1319-zhou.pdf) [VLDB 26]
 
 ## LLM
 1. [ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models](https://www.vldb.org/pvldb/vol17/p2279-freire.pdf) [VLDB 24]
@@ -379,6 +384,9 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Visual Template Inference for Data Extraction from Documents](https://dl.acm.org/doi/pdf/10.1145/3769840) [SIGMOD 26]
 3. ["Cut Costs, Not Accuracy: LLM-Powered Data Processing with Guarantees"](https://dl.acm.org/doi/pdf/10.1145/3769776) [SIGMOD 26]
 4. [ThalamusDB: Approximate Query Processing on Multi-Modal Data](https://saehanjo.github.io/assets/files/thalamusdb.pdf#page=1.52) [SIGMOD 26]
+
+### Tuning
+1. [Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents](https://www.vldb.org/pvldb/vol19/p1358-zhang.pdf) [VLDB 26]
 
 <a href="https://star-history.com/#Wind-Gone/awesome-ai4db-paper&Date">
   <picture>
